@@ -1,0 +1,1112 @@
+{'entry': 'auch', 'translation': 'also', 'lesson_id': 1, 'e_type': 'misc'}
+{'entry': 'danke', 'translation': 'thanks\n(abbreviated form of "thank you")', 'lesson_id': 1, 'e_type': 'misc'}
+{'entry': 'Es geht mir gut.', 'translation': 'I’m doing well.', 'lesson_id': 1, 'e_type': 'phrase'}
+{'entry': 'Es ist 09:00 Uhr.', 'translation': "It is 9 o'clock.", 'lesson_id': 1, 'e_type': 'phrase'}
+{'entry': 'Frau', 'translation': 'Ms/Mrs', 'lesson_id': 1, 'e_type': 'misc'}
+{'entry': 'gut', 'translation': 'well; good', 'lesson_id': 1, 'e_type': 'misc'}
+{'entry': 'Guten Abend.', 'translation': 'Good evening.', 'lesson_id': 1, 'e_type': 'phrase'}
+{'entry': 'Guten Morgen.', 'translation': 'Good morning.', 'lesson_id': 1, 'e_type': 'phrase'}
+{'entry': 'Guten Tag.', 'translation': 'Hello.; Good day.', 'lesson_id': 1, 'e_type': 'phrase'}
+{'entry': 'Hallo!', 'translation': 'Hello!', 'lesson_id': 1, 'e_type': 'phrase'}
+{'entry': 'Herr', 'translation': 'Mr', 'lesson_id': 1, 'e_type': 'misc'}
+{'entry': 'Hey!', 'translation': 'Hey!', 'lesson_id': 1, 'e_type': 'phrase'}
+{'entry': 'Hi!', 'translation': 'Hi!', 'lesson_id': 1, 'e_type': 'phrase'}
+{'entry': 'nicht', 'translation': 'not', 'lesson_id': 1, 'e_type': 'misc'}
+{'entry': 'nicht so gut', 'translation': 'not so good', 'lesson_id': 1, 'e_type': 'misc'}
+{'entry': 'oder', 'translation': 'or', 'lesson_id': 1, 'e_type': 'misc'}
+{'entry': 'schön', 'translation': 'nice; beautiful; pretty', 'lesson_id': 1, 'e_type': 'misc'}
+{'entry': 'sehr gut', 'translation': 'very well; very good', 'lesson_id': 1, 'e_type': 'misc'}
+{'entry': 'super', 'translation': 'super; great', 'lesson_id': 1, 'e_type': 'misc'}
+{'entry': 'Uhr', 'translation': "o'clock", 'lesson_id': 1, 'e_type': 'misc'}
+{'entry': 'und', 'translation': 'and', 'lesson_id': 1, 'e_type': 'misc'}
+{'entry': 'Und dir?', 'translation': 'How about you? (informal)', 'lesson_id': 1, 'e_type': 'phrase'}
+{'entry': 'Und Ihnen?', 'translation': 'How about you? (formal)', 'lesson_id': 1, 'e_type': 'phrase'}
+{'entry': 'Wie geht es dir?', 'translation': 'How are you? (informal)', 'lesson_id': 1, 'e_type': 'phrase'}
+{'entry': 'Wie geht es Ihnen?', 'translation': 'How are you? (formal)', 'lesson_id': 1, 'e_type': 'phrase'}
+{'entry': 'bitte', 'translation': 'please', 'lesson_id': 2, 'e_type': 'misc'}
+{'entry': 'die E-Mail, die E-Mails', 'translation': 'email', 'lesson_id': 2, 'e_type': 'misc'}
+{'entry': 'die Information', 'translation': 'information', 'lesson_id': 2, 'e_type': 'misc'}
+{'entry': 'Kein Problem.', 'translation': 'No problem.', 'lesson_id': 2, 'e_type': 'phrase'}
+{'entry': 'die Kultur', 'translation': 'culture', 'lesson_id': 2, 'e_type': 'misc'}
+{'entry': 'die Musik', 'translation': 'music', 'lesson_id': 2, 'e_type': 'misc'}
+{'entry': 'okay', 'translation': 'okay', 'lesson_id': 2, 'e_type': 'misc'}
+{'entry': 'die Spaghetti (Plural)', 'translation': 'spaghetti', 'lesson_id': 2, 'e_type': 'misc'}
+{'entry': 'der Sport', 'translation': 'sports; exercise', 'lesson_id': 2, 'e_type': 'misc'}
+{'entry': '(etwas) studieren', 'translation': 'to study (something, at a college or university)', 'lesson_id': 2, 'e_type': 'misc'}
+{'entry': 'Auf Wiedersehen.', 'translation': 'Goodbye.', 'lesson_id': 3, 'e_type': 'phrase'}
+{'entry': 'Bis bald.', 'translation': 'See you soon.', 'lesson_id': 3, 'e_type': 'phrase'}
+{'entry': 'danke schön', 'translation': 'Thank you!', 'lesson_id': 3, 'e_type': 'misc'}
+{'entry': 'Gute Reise.', 'translation': 'Have a good trip!', 'lesson_id': 3, 'e_type': 'phrase'}
+{'entry': 'ja', 'translation': 'yes', 'lesson_id': 3, 'e_type': 'misc'}
+{'entry': 'Mach’s gut!', 'translation': 'So long!; Take care!', 'lesson_id': 3, 'e_type': 'phrase'}
+{'entry': 'Tschüss.', 'translation': 'Bye.', 'lesson_id': 3, 'e_type': 'phrase'}
+{'entry': 'Vielen Dank.', 'translation': 'Many thanks!', 'lesson_id': 3, 'e_type': 'phrase'}
+{'entry': 'bitte', 'translation': 'here you go; please; if you please', 'lesson_id': 4, 'e_type': 'misc'}
+{'entry': '(etwas) buchstabieren', 'translation': 'to spell (something)', 'lesson_id': 4, 'e_type': 'misc'}
+{'entry': 'Bitte buchstabiere das.', 'translation': 'Could you please spell that?', 'lesson_id': 4, 'e_type': 'phrase'}
+{'entry': 'Bitte buchstabieren Sie das.', 'translation': 'Could you please spell that?', 'lesson_id': 4, 'e_type': 'phrase'}
+{'entry': 'das', 'translation': 'that', 'lesson_id': 4, 'e_type': 'misc'}
+{'entry': 'fliegen', 'translation': 'to fly; to fly in an airplane', 'lesson_id': 4, 'e_type': 'misc'}
+{'entry': 'Langsam bitte.', 'translation': 'Slowly, please.', 'lesson_id': 4, 'e_type': 'phrase'}
+{'entry': 'Mein Name ist ...', 'translation': 'My name is ...', 'lesson_id': 4, 'e_type': 'phrase'}
+{'entry': 'Wie ist dein Name?', 'translation': 'What is your name? (informal)', 'lesson_id': 4, 'e_type': 'phrase'}
+{'entry': 'Wie ist Ihr Name?', 'translation': 'What is your name? (formal)', 'lesson_id': 4, 'e_type': 'phrase'}
+{'entry': 'nein', 'translation': 'no', 'lesson_id': 4, 'e_type': 'misc'}
+{'entry': 'nicht', 'translation': 'not', 'lesson_id': 4, 'e_type': 'misc'}
+{'entry': 'noch einmal', 'translation': 'again', 'lesson_id': 4, 'e_type': 'misc'}
+{'entry': 'Noch einmal bitte.', 'translation': 'Again, please.', 'lesson_id': 4, 'e_type': 'phrase'}
+{'entry': 'etwas suchen', 'translation': 'to search for something; to look for something', 'lesson_id': 4, 'e_type': 'misc'}
+{'entry': 'Wie schreibt man das?', 'translation': 'How do you write/spell that?', 'lesson_id': 4, 'e_type': 'phrase'}
+{'entry': 'aber', 'translation': 'but', 'lesson_id': 5, 'e_type': 'misc'}
+{'entry': 'Das ist Nico.', 'translation': 'That/this is Nico.', 'lesson_id': 5, 'e_type': 'phrase'}
+{'entry': 'du', 'translation': 'you (informal)', 'lesson_id': 5, 'e_type': 'misc'}
+{'entry': 'Du bist Emma.', 'translation': 'You are Emma.', 'lesson_id': 5, 'e_type': 'phrase'}
+{'entry': 'heißen', 'translation': 'to be called; to be named', 'lesson_id': 5, 'e_type': 'misc'}
+{'entry': 'ich', 'translation': 'I', 'lesson_id': 5, 'e_type': 'misc'}
+{'entry': 'Ich bin …', 'translation': 'I am ...', 'lesson_id': 5, 'e_type': 'misc'}
+{'entry': 'Ich heiße Nico.', 'translation': 'My name is Nico.', 'lesson_id': 5, 'e_type': 'phrase'}
+{'entry': 'jetzt', 'translation': 'now', 'lesson_id': 5, 'e_type': 'misc'}
+{'entry': 'Oder?', 'translation': "Or not?; Isn't that right?", 'lesson_id': 5, 'e_type': 'phrase'}
+{'entry': 'weg', 'translation': 'gone', 'lesson_id': 5, 'e_type': 'misc'}
+{'entry': 'wer', 'translation': 'who', 'lesson_id': 5, 'e_type': 'misc'}
+{'entry': 'Wer bist du?', 'translation': 'Who are you? (informal)', 'lesson_id': 5, 'e_type': 'phrase'}
+{'entry': 'Wer sind Sie?', 'translation': 'Who are you? (formal)', 'lesson_id': 5, 'e_type': 'phrase'}
+{'entry': 'Wie heißen Sie?', 'translation': 'What is your name? (formal)', 'lesson_id': 5, 'e_type': 'phrase'}
+{'entry': 'Wie heißt du?', 'translation': 'What is your name? (informal)', 'lesson_id': 5, 'e_type': 'phrase'}
+{'entry': '(das) Deutsch', 'translation': 'German (language)', 'lesson_id': 6, 'e_type': 'misc'}
+{'entry': 'er', 'translation': 'he', 'lesson_id': 6, 'e_type': 'misc'}
+{'entry': '(jemandem) helfen', 'translation': 'to help someone', 'lesson_id': 6, 'e_type': 'misc'}
+{'entry': 'in', 'translation': 'in', 'lesson_id': 6, 'e_type': 'misc'}
+{'entry': 'Keine Ahnung.', 'translation': 'no idea', 'lesson_id': 6, 'e_type': 'phrase'}
+{'entry': '(etwas) lernen', 'translation': 'to learn (something)', 'lesson_id': 6, 'e_type': 'misc'}
+{'entry': 'sie', 'translation': 'she', 'lesson_id': 6, 'e_type': 'misc'}
+{'entry': 'Er ist Taxifahrer.', 'translation': 'He is a cabdriver/taxi driver.', 'lesson_id': 6, 'e_type': 'phrase'}
+{'entry': 'Sie ist Taxifahrerin.', 'translation': 'She is a cabdriver/taxi driver.', 'lesson_id': 6, 'e_type': 'phrase'}
+{'entry': 'woher', 'translation': 'where; from where', 'lesson_id': 6, 'e_type': 'misc'}
+{'entry': 'aus', 'translation': 'from', 'lesson_id': 7, 'e_type': 'misc'}
+{'entry': '(das) Berlin', 'translation': 'Berlin', 'lesson_id': 7, 'e_type': 'misc'}
+{'entry': '(das) Deutschland', 'translation': 'Germany', 'lesson_id': 7, 'e_type': 'misc'}
+{'entry': 'Entschuldigung, ...', 'translation': 'Excuse me, ...', 'lesson_id': 7, 'e_type': 'phrase'}
+{'entry': 'hier', 'translation': 'here', 'lesson_id': 7, 'e_type': 'misc'}
+{'entry': 'ja', 'translation': 'yes', 'lesson_id': 7, 'e_type': 'misc'}
+{'entry': 'kommen', 'translation': 'come', 'lesson_id': 7, 'e_type': 'misc'}
+{'entry': 'Ich komme aus Spanien.', 'translation': 'I am from Spain.', 'lesson_id': 7, 'e_type': 'phrase'}
+{'entry': '(etwas) lernen', 'translation': 'to learn (something)', 'lesson_id': 7, 'e_type': 'misc'}
+{'entry': 'etwas machen', 'translation': 'to make something; to do something; to be doing something', 'lesson_id': 7, 'e_type': 'misc'}
+{'entry': 'nein', 'translation': 'no', 'lesson_id': 7, 'e_type': 'misc'}
+{'entry': 'die Polizei', 'translation': 'police', 'lesson_id': 7, 'e_type': 'misc'}
+{'entry': 'Sie', 'translation': 'you (formal)', 'lesson_id': 7, 'e_type': 'misc'}
+{'entry': '(das) Spanien', 'translation': 'Spain', 'lesson_id': 7, 'e_type': 'misc'}
+{'entry': 'sprechen', 'translation': 'to speak', 'lesson_id': 7, 'e_type': 'misc'}
+{'entry': 'Sie sprechen gut Deutsch.', 'translation': 'You speak German well.', 'lesson_id': 7, 'e_type': 'phrase'}
+{'entry': 'was', 'translation': 'what', 'lesson_id': 7, 'e_type': 'misc'}
+{'entry': 'Was machen Sie hier?', 'translation': 'What do you do here? (formal)', 'lesson_id': 7, 'e_type': 'phrase'}
+{'entry': 'Was machst du hier?', 'translation': 'What are you doing here? (informal)', 'lesson_id': 7, 'e_type': 'phrase'}
+{'entry': 'wie', 'translation': 'how', 'lesson_id': 7, 'e_type': 'misc'}
+{'entry': 'wir', 'translation': 'we', 'lesson_id': 7, 'e_type': 'misc'}
+{'entry': 'wo', 'translation': 'where', 'lesson_id': 7, 'e_type': 'misc'}
+{'entry': 'Wo wohnen Sie?', 'translation': 'Where do you live? (formal)', 'lesson_id': 7, 'e_type': 'phrase'}
+{'entry': 'Wo wohnst du?', 'translation': 'Where do you live? (informal)', 'lesson_id': 7, 'e_type': 'phrase'}
+{'entry': 'woher', 'translation': 'where; from where', 'lesson_id': 7, 'e_type': 'misc'}
+{'entry': 'Woher kommen Sie?', 'translation': 'Where are you from? (formal)', 'lesson_id': 7, 'e_type': 'phrase'}
+{'entry': 'Woher kommst du?', 'translation': 'Where are you from? (informal)', 'lesson_id': 7, 'e_type': 'phrase'}
+{'entry': 'wohnen', 'translation': 'to live', 'lesson_id': 7, 'e_type': 'misc'}
+{'entry': 'Ich wohne in Sevilla.', 'translation': 'I live in Sevilla.', 'lesson_id': 7, 'e_type': 'phrase'}
+{'entry': 'die Arbeit ', 'translation': 'work; a job', 'lesson_id': 8, 'e_type': 'misc'}
+{'entry': 'es', 'translation': 'it', 'lesson_id': 8, 'e_type': 'misc'}
+{'entry': 'etwas haben', 'translation': 'to have something', 'lesson_id': 8, 'e_type': 'misc'}
+{'entry': 'Hier ist …', 'translation': 'This is...', 'lesson_id': 8, 'e_type': 'misc'}
+{'entry': 'ihr', 'translation': 'you (plural, informal)', 'lesson_id': 8, 'e_type': 'misc'}
+{'entry': 'richtig', 'translation': 'correct; right', 'lesson_id': 8, 'e_type': 'misc'}
+{'entry': 'sein', 'translation': 'to be', 'lesson_id': 8, 'e_type': 'misc'}
+{'entry': 'sie', 'translation': 'they', 'lesson_id': 8, 'e_type': 'misc'}
+{'entry': 'sprechen', 'translation': 'to speak', 'lesson_id': 8, 'e_type': 'misc'}
+{'entry': 'etwas suchen', 'translation': 'to search for something; to look for something', 'lesson_id': 8, 'e_type': 'misc'}
+{'entry': 'acht', 'translation': 'eight', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'achtzig', 'translation': 'eighty', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'Bis morgen!', 'translation': 'See you tomorrow!', 'lesson_id': 9, 'e_type': 'phrase'}
+{'entry': 'drei', 'translation': 'three', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'dreißig', 'translation': 'thirty', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'einhundert', 'translation': 'one hundred', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'eins', 'translation': 'one', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'elf', 'translation': 'eleven', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'Emma ist acht Jahre alt.', 'translation': 'Emma is eight years old.', 'lesson_id': 9, 'e_type': 'phrase'}
+{'entry': 'feiern', 'translation': 'to celebrate', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'fünf', 'translation': 'five', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'fünfzig', 'translation': 'fifty', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'Ich werde acht Jahre alt.', 'translation': 'I am turning/going to be eight years old', 'lesson_id': 9, 'e_type': 'phrase'}
+{'entry': 'Lotte wird acht Jahre alt.', 'translation': 'Lotte is turning eight.', 'lesson_id': 9, 'e_type': 'phrase'}
+{'entry': 'neun', 'translation': 'nine', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'neunzig', 'translation': 'ninety', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'sechs', 'translation': 'six', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'sechzig', 'translation': 'sixty', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'sieben', 'translation': 'seven', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'siebzig', 'translation': 'seventy', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'vier', 'translation': 'four', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'vierzig', 'translation': 'forty', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'Wie alt ist Emma?', 'translation': 'How old is Emma?', 'lesson_id': 9, 'e_type': 'phrase'}
+{'entry': 'wie viele', 'translation': 'how many', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'zehn', 'translation': 'ten', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'zwanzig', 'translation': 'twenty', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'zwei', 'translation': 'two', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'zwölf', 'translation': 'twelve', 'lesson_id': 9, 'e_type': 'misc'}
+{'entry': 'antworten', 'translation': 'to answer something; to return a call', 'lesson_id': 10, 'e_type': 'misc'}
+{'entry': 'dreimal', 'translation': 'three times; thrice', 'lesson_id': 10, 'e_type': 'misc'}
+{'entry': 'fragen', 'translation': 'to ask', 'lesson_id': 10, 'e_type': 'misc'}
+{'entry': '(etwas) hören', 'translation': 'to listen to; to hear', 'lesson_id': 10, 'e_type': 'misc'}
+{'entry': 'Ich bin 23 Jahre alt.', 'translation': 'I am 23 years old.', 'lesson_id': 10, 'e_type': 'phrase'}
+{'entry': 'null', 'translation': 'zero', 'lesson_id': 10, 'e_type': 'misc'}
+{'entry': 'mit jemandem sprechen', 'translation': 'to speak with someone', 'lesson_id': 10, 'e_type': 'misc'}
+{'entry': 'Meine Telefonnummer ist ...', 'translation': 'My telephone number is...', 'lesson_id': 10, 'e_type': 'phrase'}
+{'entry': 'Wie ist deine Telefonnummer?', 'translation': 'What is your telephone number? (informal)', 'lesson_id': 10, 'e_type': 'phrase'}
+{'entry': 'Wie ist Ihre Telefonnummer?', 'translation': 'What is your telephone number? (formal)', 'lesson_id': 10, 'e_type': 'phrase'}
+{'entry': 'etwas verlieren', 'translation': 'to lose something', 'lesson_id': 10, 'e_type': 'misc'}
+{'entry': 'wichtig', 'translation': 'important', 'lesson_id': 10, 'e_type': 'misc'}
+{'entry': 'Wie alt bist du? ', 'translation': 'How old are you? (informal)', 'lesson_id': 10, 'e_type': 'misc'}
+{'entry': 'Wie alt sind Sie?', 'translation': 'How old are you? (formal)', 'lesson_id': 10, 'e_type': 'phrase'}
+{'entry': 'zweimal', 'translation': 'twice', 'lesson_id': 10, 'e_type': 'misc'}
+{'entry': 'Die Polizei ist in der Schreinerstraße.', 'translation': 'The police (station) is/are on Schreinerstr.', 'lesson_id': 11, 'e_type': 'phrase'}
+{'entry': 'Entschuldigung', 'translation': 'I’m sorry.', 'lesson_id': 11, 'e_type': 'misc'}
+{'entry': 'fehlen', 'translation': 'to be missing', 'lesson_id': 11, 'e_type': 'misc'}
+{'entry': "Mir geht's gut.", 'translation': 'I’m doing well.', 'lesson_id': 11, 'e_type': 'phrase'}
+{'entry': '(etwas) schreiben', 'translation': 'to write (something)', 'lesson_id': 11, 'e_type': 'misc'}
+{'entry': 'mit jemandem telefonieren', 'translation': 'to speak with someone; to call someone (on the phone)', 'lesson_id': 11, 'e_type': 'misc'}
+{'entry': 'Viel Glück!', 'translation': 'Good luck!', 'lesson_id': 11, 'e_type': 'phrase'}
+{'entry': 'warum', 'translation': 'why', 'lesson_id': 11, 'e_type': 'misc'}
+{'entry': 'Wer ist da?', 'translation': "Who is it?; Who's there?", 'lesson_id': 11, 'e_type': 'phrase'}
+{'entry': 'Wie heißt die Straße?', 'translation': 'What is the name of the street?', 'lesson_id': 11, 'e_type': 'phrase'}
+{'entry': 'Wo bist du?', 'translation': 'Where are you? (informal)', 'lesson_id': 11, 'e_type': 'phrase'}
+{'entry': 'Wo ist die Polizei?', 'translation': 'Where is the police (station)?', 'lesson_id': 11, 'e_type': 'phrase'}
+{'entry': 'achthundert', 'translation': 'eight hundred', 'lesson_id': 12, 'e_type': 'misc'}
+{'entry': 'achthundertachtundsiebzig', 'translation': 'eight hundred and seventy eight', 'lesson_id': 12, 'e_type': 'misc'}
+{'entry': 'dreihundert', 'translation': 'three hundred', 'lesson_id': 12, 'e_type': 'misc'}
+{'entry': 'dreihundertdreiundzwanzig', 'translation': 'three hundred and twenty three', 'lesson_id': 12, 'e_type': 'misc'}
+{'entry': 'einhundert', 'translation': 'one hundred', 'lesson_id': 12, 'e_type': 'misc'}
+{'entry': 'einhunderteins', 'translation': 'one hundred and one', 'lesson_id': 12, 'e_type': 'misc'}
+{'entry': 'eintausend', 'translation': 'one thousand', 'lesson_id': 12, 'e_type': 'misc'}
+{'entry': 'fünfhundert', 'translation': 'five hundred', 'lesson_id': 12, 'e_type': 'misc'}
+{'entry': 'fünfhundertfünfundvierzig', 'translation': 'five hundred and forty five', 'lesson_id': 12, 'e_type': 'misc'}
+{'entry': 'Ich weiß es nicht.', 'translation': "I don't know.", 'lesson_id': 12, 'e_type': 'phrase'}
+{'entry': 'etwas kosten', 'translation': 'to cost (it costs 5 euro)', 'lesson_id': 12, 'e_type': 'misc'}
+{'entry': 'neunhundert', 'translation': 'nine hundred', 'lesson_id': 12, 'e_type': 'misc'}
+{'entry': 'neunhundertneunundachtzig', 'translation': 'nine hundred and eighty nine', 'lesson_id': 12, 'e_type': 'misc'}
+{'entry': 'sechshundert', 'translation': 'six hundred', 'lesson_id': 12, 'e_type': 'misc'}
+{'entry': 'sechshundertsechsundfünfzig', 'translation': 'six hundred and fifty six', 'lesson_id': 12, 'e_type': 'misc'}
+{'entry': 'siebenhundert', 'translation': 'seven hundred', 'lesson_id': 12, 'e_type': 'misc'}
+{'entry': 'siebenhundertsiebenundsechzig', 'translation': 'seven hundred and sixty seven', 'lesson_id': 12, 'e_type': 'misc'}
+{'entry': 'vierhundert', 'translation': 'four hundred', 'lesson_id': 12, 'e_type': 'misc'}
+{'entry': 'vierhundertvierunddreißig', 'translation': 'four hundred and thirty four', 'lesson_id': 12, 'e_type': 'misc'}
+{'entry': 'warum', 'translation': 'why', 'lesson_id': 12, 'e_type': 'misc'}
+{'entry': 'Welche Nummer haben Sie?', 'translation': 'What is your number? (formal)', 'lesson_id': 12, 'e_type': 'phrase'}
+{'entry': 'Welche Nummer hast du?', 'translation': 'What is your number? (informal)', 'lesson_id': 12, 'e_type': 'phrase'}
+{'entry': 'Wie ist deine Adresse?', 'translation': 'What is your address? (informal)', 'lesson_id': 12, 'e_type': 'phrase'}
+{'entry': 'Wie ist Ihre Adresse?', 'translation': 'What is your address? (formal)', 'lesson_id': 12, 'e_type': 'phrase'}
+{'entry': 'zweihundert', 'translation': 'two hundred', 'lesson_id': 12, 'e_type': 'misc'}
+{'entry': 'zweihundertzwölf', 'translation': 'two hundred and twelve', 'lesson_id': 12, 'e_type': 'misc'}
+{'entry': 'danke schön', 'translation': 'Thank you!', 'lesson_id': 13, 'e_type': 'misc'}
+{'entry': ' das Flugzeug, die Flugzeuge', 'translation': 'airplane', 'lesson_id': 13, 'e_type': 'misc'}
+{'entry': 'funktionieren', 'translation': 'to work; to function', 'lesson_id': 13, 'e_type': 'misc'}
+{'entry': 'gern', 'translation': 'gladly; happily', 'lesson_id': 13, 'e_type': 'misc'}
+{'entry': 'Herzlich willkommen!', 'translation': 'Welcome!', 'lesson_id': 13, 'e_type': 'phrase'}
+{'entry': 'kaputt', 'translation': 'broken', 'lesson_id': 13, 'e_type': 'misc'}
+{'entry': 'schön', 'translation': 'nice; beautiful; pretty', 'lesson_id': 13, 'e_type': 'misc'}
+{'entry': '(etwas) trinken', 'translation': 'to drink (something)', 'lesson_id': 13, 'e_type': 'misc'}
+{'entry': 'Was machst du hier?', 'translation': 'What are you doing here? (informal)', 'lesson_id': 13, 'e_type': 'phrase'}
+{'entry': 'Wer ist denn das?', 'translation': 'Who is that?', 'lesson_id': 13, 'e_type': 'phrase'}
+{'entry': 'wieder', 'translation': 'again', 'lesson_id': 13, 'e_type': 'misc'}
+{'entry': 'willkommen', 'translation': 'welcome', 'lesson_id': 13, 'e_type': 'misc'}
+{'entry': 'Wollen wir uns nicht duzen?', 'translation': 'Let\'s use the "du" (informal) form of address with each other.', 'lesson_id': 13, 'e_type': 'phrase'}
+{'entry': 'das', 'translation': 'the (neuter article)', 'lesson_id': 14, 'e_type': 'misc'}
+{'entry': 'der', 'translation': 'the (masculine article)', 'lesson_id': 14, 'e_type': 'misc'}
+{'entry': 'die', 'translation': 'the (feminine article)', 'lesson_id': 14, 'e_type': 'misc'}
+{'entry': 'das Eis', 'translation': 'ice cubes', 'lesson_id': 14, 'e_type': 'misc'}
+{'entry': 'fragen', 'translation': 'to ask', 'lesson_id': 14, 'e_type': 'misc'}
+{'entry': 'Ich habe eine Idee.', 'translation': 'I have an idea.', 'lesson_id': 14, 'e_type': 'phrase'}
+{'entry': 'jemanden/etwas kennen', 'translation': 'to know someone', 'lesson_id': 14, 'e_type': 'misc'}
+{'entry': 'lieber ', 'translation': 'rather; to prefer', 'lesson_id': 14, 'e_type': 'misc'}
+{'entry': 'die Milch', 'translation': 'milk', 'lesson_id': 14, 'e_type': 'misc'}
+{'entry': 'mit', 'translation': 'with', 'lesson_id': 14, 'e_type': 'misc'}
+{'entry': 'möchten', 'translation': 'to like; to want to; would like', 'lesson_id': 14, 'e_type': 'misc'}
+{'entry': 'etwas nehmen', 'translation': 'to take something; to have something', 'lesson_id': 14, 'e_type': 'misc'}
+{'entry': 'ohne', 'translation': 'without', 'lesson_id': 14, 'e_type': 'misc'}
+{'entry': 'etwas posten', 'translation': 'to post something', 'lesson_id': 14, 'e_type': 'misc'}
+{'entry': 'viel', 'translation': 'a lot (of)', 'lesson_id': 14, 'e_type': 'misc'}
+{'entry': 'das Wasser', 'translation': 'water', 'lesson_id': 14, 'e_type': 'misc'}
+{'entry': 'wenig', 'translation': 'a litte; a bit; few', 'lesson_id': 14, 'e_type': 'misc'}
+{'entry': 'der Zucker ', 'translation': 'sugar', 'lesson_id': 14, 'e_type': 'misc'}
+{'entry': '(etwas) bestellen', 'translation': 'to order something', 'lesson_id': 15, 'e_type': 'misc'}
+{'entry': 'der Durst ', 'translation': 'thirst; Durst haben = to be thirsty', 'lesson_id': 15, 'e_type': 'misc'}
+{'entry': '(etwas) essen', 'translation': 'to eat (something)', 'lesson_id': 15, 'e_type': 'misc'}
+{'entry': 'gern', 'translation': 'gladly; happily', 'lesson_id': 15, 'e_type': 'misc'}
+{'entry': 'der Hunger ', 'translation': 'hunger; Hunger haben = to be hungry', 'lesson_id': 15, 'e_type': 'misc'}
+{'entry': 'der Käse', 'translation': 'cheese', 'lesson_id': 15, 'e_type': 'misc'}
+{'entry': 'etwas/jemanden lieben', 'translation': 'to love something/somebody; to like something/somebody', 'lesson_id': 15, 'e_type': 'misc'}
+{'entry': 'der Mozzarella', 'translation': 'mozzarella', 'lesson_id': 15, 'e_type': 'misc'}
+{'entry': 'etwas nehmen', 'translation': 'to take something; to have something', 'lesson_id': 15, 'e_type': 'misc'}
+{'entry': 'Sonst noch etwas?', 'translation': 'Anything else?', 'lesson_id': 15, 'e_type': 'phrase'}
+{'entry': 'das Sushi', 'translation': 'sushi', 'lesson_id': 15, 'e_type': 'misc'}
+{'entry': 'Was gibt es denn?', 'translation': 'What do you have?; What is there?', 'lesson_id': 15, 'e_type': 'phrase'}
+{'entry': 'bar', 'translation': 'in cash', 'lesson_id': 16, 'e_type': 'misc'}
+{'entry': '(etwas) bezahlen', 'translation': 'to pay something', 'lesson_id': 16, 'e_type': 'misc'}
+{'entry': 'Das macht …', 'translation': 'That will be ...', 'lesson_id': 16, 'e_type': 'misc'}
+{'entry': 'Das macht zusammen …', 'translation': 'That will be ... in total.', 'lesson_id': 16, 'e_type': 'misc'}
+{'entry': 'Das stimmt so.', 'translation': "Keep the change.; That's fine.", 'lesson_id': 16, 'e_type': 'phrase'}
+{'entry': 'Du bist eingeladen!', 'translation': "It's my treat.; It's on me.", 'lesson_id': 16, 'e_type': 'phrase'}
+{'entry': 'getrennt', 'translation': 'separate; separately', 'lesson_id': 16, 'e_type': 'misc'}
+{'entry': 'etwas sagen', 'translation': 'to say sth.; to tell so. sth.', 'lesson_id': 16, 'e_type': 'misc'}
+{'entry': 'Was kostet …?', 'translation': 'How much does ... cost?', 'lesson_id': 16, 'e_type': 'phrase'}
+{'entry': 'wie viel', 'translation': 'how much', 'lesson_id': 16, 'e_type': 'misc'}
+{'entry': 'Wie viel Euro macht das?', 'translation': 'How many euros does that cost?; How many euro is that in total?', 'lesson_id': 16, 'e_type': 'phrase'}
+{'entry': 'Wie viel kostet ...?', 'translation': 'How much is ...?; How much does ... cost?', 'lesson_id': 16, 'e_type': 'phrase'}
+{'entry': 'zahlen', 'translation': 'to pay', 'lesson_id': 16, 'e_type': 'misc'}
+{'entry': 'Zahlen Sie bar oder mit Karte?', 'translation': 'Will you be paying in cash or by card? (formal)', 'lesson_id': 16, 'e_type': 'phrase'}
+{'entry': 'Zahlen Sie zusammen oder getrennt? ', 'translation': 'Will you be paying together or separately? (formal)', 'lesson_id': 16, 'e_type': 'misc'}
+{'entry': 'zusammen', 'translation': 'together', 'lesson_id': 16, 'e_type': 'misc'}
+{'entry': 'jemanden begrüßen', 'translation': 'to greet someone', 'lesson_id': 17, 'e_type': 'misc'}
+{'entry': 'etwas besichtigen', 'translation': 'to visit something', 'lesson_id': 17, 'e_type': 'misc'}
+{'entry': 'deutsch', 'translation': 'German (an adjective, e.g. das deutsche Auto)', 'lesson_id': 17, 'e_type': 'misc'}
+{'entry': 'dort', 'translation': 'there', 'lesson_id': 17, 'e_type': 'misc'}
+{'entry': 'die Eltern (Plural)', 'translation': 'parents', 'lesson_id': 17, 'e_type': 'misc'}
+{'entry': 'fahren', 'translation': 'to drive; to travel with a vehicle', 'lesson_id': 17, 'e_type': 'misc'}
+{'entry': 'gestern', 'translation': 'yesterday', 'lesson_id': 17, 'e_type': 'misc'}
+{'entry': 'im Moment', 'translation': 'at the moment', 'lesson_id': 17, 'e_type': 'misc'}
+{'entry': 'jemanden/etwas kennen', 'translation': 'to know someone', 'lesson_id': 17, 'e_type': 'misc'}
+{'entry': 'letztes Jahr', 'translation': 'last year', 'lesson_id': 17, 'e_type': 'misc'}
+{'entry': 'nach', 'translation': 'to; towards', 'lesson_id': 17, 'e_type': 'misc'}
+{'entry': 'noch nie', 'translation': 'never (i.e., never tried something, never been somewhere)', 'lesson_id': 17, 'e_type': 'misc'}
+{'entry': '(das) Österreich', 'translation': 'Austria', 'lesson_id': 17, 'e_type': 'misc'}
+{'entry': 'schon mal', 'translation': 'before; already', 'lesson_id': 17, 'e_type': 'misc'}
+{'entry': 'die Schweiz', 'translation': 'Switzerland', 'lesson_id': 17, 'e_type': 'misc'}
+{'entry': '(etwas) spielen', 'translation': 'to play (something)', 'lesson_id': 17, 'e_type': 'misc'}
+{'entry': 'toll', 'translation': 'great, wonderful', 'lesson_id': 17, 'e_type': 'misc'}
+{'entry': 'Was ist das?', 'translation': 'What is that?', 'lesson_id': 17, 'e_type': 'phrase'}
+{'entry': 'welche', 'translation': 'which', 'lesson_id': 17, 'e_type': 'misc'}
+{'entry': 'wohin', 'translation': 'where; to where; where to', 'lesson_id': 17, 'e_type': 'misc'}
+{'entry': '(das) Europa', 'translation': 'Europe', 'lesson_id': 18, 'e_type': 'misc'}
+{'entry': '(etwas) gewinnen', 'translation': 'to win (something)', 'lesson_id': 18, 'e_type': 'misc'}
+{'entry': 'in der Mitte (von)', 'translation': 'in the middle (of)', 'lesson_id': 18, 'e_type': 'misc'}
+{'entry': 'in der Nähe (von)', 'translation': 'near', 'lesson_id': 18, 'e_type': 'misc'}
+{'entry': 'liegen', 'translation': 'here: to be located', 'lesson_id': 18, 'e_type': 'misc'}
+{'entry': 'der Norden ', 'translation': 'north; the North', 'lesson_id': 18, 'e_type': 'misc'}
+{'entry': 'der Osten ', 'translation': 'east; the East', 'lesson_id': 18, 'e_type': 'misc'}
+{'entry': 'der Süden', 'translation': 'south; the South', 'lesson_id': 18, 'e_type': 'misc'}
+{'entry': '(das) Syrien', 'translation': 'Syria', 'lesson_id': 18, 'e_type': 'misc'}
+{'entry': 'tanzen', 'translation': 'to dance', 'lesson_id': 18, 'e_type': 'misc'}
+{'entry': 'der Westen ', 'translation': 'west; the West', 'lesson_id': 18, 'e_type': 'misc'}
+{'entry': 'Bei uns ...', 'translation': 'among us; here at our; here in our... ', 'lesson_id': 19, 'e_type': 'phrase'}
+{'entry': '(das) China', 'translation': 'China', 'lesson_id': 19, 'e_type': 'misc'}
+{'entry': 'cool', 'translation': 'cool', 'lesson_id': 19, 'e_type': 'misc'}
+{'entry': '(das) Frankreich', 'translation': 'France', 'lesson_id': 19, 'e_type': 'misc'}
+{'entry': '(das) Italien', 'translation': 'Italy', 'lesson_id': 19, 'e_type': 'misc'}
+{'entry': '(das) Japan', 'translation': 'Japan', 'lesson_id': 19, 'e_type': 'misc'}
+{'entry': 'man', 'translation': 'one (impersonal pronoun)', 'lesson_id': 19, 'e_type': 'misc'}
+{'entry': 'etwas mögen', 'translation': 'to like something', 'lesson_id': 19, 'e_type': 'misc'}
+{'entry': 'nächstes Jahr', 'translation': 'next year', 'lesson_id': 19, 'e_type': 'misc'}
+{'entry': '(das) Norwegen', 'translation': 'Norway', 'lesson_id': 19, 'e_type': 'misc'}
+{'entry': '(das) Schweden', 'translation': 'Sweden', 'lesson_id': 19, 'e_type': 'misc'}
+{'entry': '(etwas) singen', 'translation': 'to sing (something)', 'lesson_id': 19, 'e_type': 'misc'}
+{'entry': 'die USA (Plural)', 'translation': 'USA (plural in German)', 'lesson_id': 19, 'e_type': 'misc'}
+{'entry': 'verschieden', 'translation': 'different', 'lesson_id': 19, 'e_type': 'misc'}
+{'entry': '(das) Arabisch ', 'translation': 'Arabic (language)', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': 'bleiben', 'translation': 'to stay', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': '(das) Chinesisch', 'translation': 'Chinese (language)', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': '(das) Deutsch', 'translation': 'German (language)', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': 'ein bisschen', 'translation': 'a little', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': '(das) Englisch', 'translation': 'English (language)', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': '(das) Französisch', 'translation': 'French (language)', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': 'international', 'translation': 'international', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': '(das) Italienisch', 'translation': 'Italian (language)', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': '(das) Japanisch', 'translation': 'Japanese (language)', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': 'nördlich', 'translation': 'north; northwards; to the north of', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': '(das) Norwegisch', 'translation': 'Norwegian (language)', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': 'östlich', 'translation': 'east; eastwards; to the east of', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': '(das) Russisch', 'translation': 'Russian (language)', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': '(das) Russland', 'translation': 'Russia', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': 'schlecht', 'translation': 'badly; bad', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': 'schnell', 'translation': 'fast', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': '(das) Schwedisch', 'translation': 'Swedish (language)', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': 'sehr', 'translation': 'very', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': '(das) Spanisch', 'translation': 'Spanish (language)', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': 'sprechen', 'translation': 'to speak', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': 'Welche Sprachen sprichst du?', 'translation': 'Which languages do you speak? (informal)', 'lesson_id': 20, 'e_type': 'phrase'}
+{'entry': 'südlich', 'translation': 'south; southwards; to the south of', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': '(das) Thai', 'translation': 'Thai (language)', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': '(das) Thailand', 'translation': 'Thailand', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': 'westlich', 'translation': 'west; westwards; to the west of', 'lesson_id': 20, 'e_type': 'misc'}
+{'entry': 'die', 'translation': 'the (plural)', 'lesson_id': 21, 'e_type': 'misc'}
+{'entry': 'das Papier', 'translation': 'paper', 'lesson_id': 21, 'e_type': 'misc'}
+{'entry': '(etwas) unterrichten', 'translation': 'to teach; to instruct', 'lesson_id': 21, 'e_type': 'misc'}
+{'entry': 'Wie heißt das auf Deutsch?', 'translation': 'What does that mean in German?', 'lesson_id': 21, 'e_type': 'phrase'}
+{'entry': 'der Deutschunterricht', 'translation': 'German class', 'lesson_id': 22, 'e_type': 'misc'}
+{'entry': 'ein', 'translation': 'a/an (indefinite article)', 'lesson_id': 22, 'e_type': 'misc'}
+{'entry': 'eine', 'translation': 'a/an (indefinite article)', 'lesson_id': 22, 'e_type': 'misc'}
+{'entry': 'falsch', 'translation': 'wrong', 'lesson_id': 22, 'e_type': 'misc'}
+{'entry': '(etwas) hören', 'translation': 'to listen to; to hear', 'lesson_id': 22, 'e_type': 'misc'}
+{'entry': '(etwas) lernen', 'translation': 'to learn (something)', 'lesson_id': 22, 'e_type': 'misc'}
+{'entry': '(etwas) lesen', 'translation': 'to read (something)', 'lesson_id': 22, 'e_type': 'misc'}
+{'entry': 'richtig', 'translation': 'correct; right', 'lesson_id': 22, 'e_type': 'misc'}
+{'entry': '(etwas) schreiben', 'translation': 'to write (something)', 'lesson_id': 22, 'e_type': 'misc'}
+{'entry': '(etwas) üben', 'translation': 'to practice (something)', 'lesson_id': 22, 'e_type': 'misc'}
+{'entry': 'von', 'translation': 'of', 'lesson_id': 22, 'e_type': 'misc'}
+{'entry': 'etwas wiederholen', 'translation': 'to repeat/revise/review something', 'lesson_id': 22, 'e_type': 'misc'}
+{'entry': 'zum Beispiel', 'translation': 'for example; for instance', 'lesson_id': 22, 'e_type': 'misc'}
+{'entry': 'Alles klar!', 'translation': 'All right!/Got it!', 'lesson_id': 23, 'e_type': 'phrase'}
+{'entry': 'Einen Moment bitte.', 'translation': 'One moment, please. ', 'lesson_id': 23, 'e_type': 'phrase'}
+{'entry': 'heute', 'translation': 'today', 'lesson_id': 23, 'e_type': 'misc'}
+{'entry': 'das Internet ', 'translation': 'internet', 'lesson_id': 23, 'e_type': 'misc'}
+{'entry': 'kein', 'translation': 'no; not a; no one', 'lesson_id': 23, 'e_type': 'misc'}
+{'entry': 'keine', 'translation': 'no; not; neither', 'lesson_id': 23, 'e_type': 'misc'}
+{'entry': 'alt', 'translation': 'old', 'lesson_id': 24, 'e_type': 'misc'}
+{'entry': 'anderer, andere, anderes', 'translation': 'other; others', 'lesson_id': 24, 'e_type': 'misc'}
+{'entry': 'billig', 'translation': 'cheap; inexpensive', 'lesson_id': 24, 'e_type': 'misc'}
+{'entry': 'da sein', 'translation': 'to be there; to be present', 'lesson_id': 24, 'e_type': 'misc'}
+{'entry': 'falsch', 'translation': 'wrong', 'lesson_id': 24, 'e_type': 'misc'}
+{'entry': 'gelb', 'translation': 'yellow', 'lesson_id': 24, 'e_type': 'misc'}
+{'entry': 'groß', 'translation': 'big; tall', 'lesson_id': 24, 'e_type': 'misc'}
+{'entry': 'klein', 'translation': 'small', 'lesson_id': 24, 'e_type': 'misc'}
+{'entry': 'etwas/jemanden lieben', 'translation': 'to love something/somebody; to like something/somebody', 'lesson_id': 24, 'e_type': 'misc'}
+{'entry': 'neu', 'translation': 'new', 'lesson_id': 24, 'e_type': 'misc'}
+{'entry': 'rot', 'translation': 'red', 'lesson_id': 24, 'e_type': 'misc'}
+{'entry': 'teuer', 'translation': 'expensive', 'lesson_id': 24, 'e_type': 'misc'}
+{'entry': 'das T-Shirt, die T-Shirts', 'translation': 't-shirt', 'lesson_id': 24, 'e_type': 'misc'}
+{'entry': 'weiß', 'translation': 'white', 'lesson_id': 24, 'e_type': 'misc'}
+{'entry': 'auf dem Land', 'translation': 'in the country', 'lesson_id': 25, 'e_type': 'misc'}
+{'entry': 'besser', 'translation': 'better', 'lesson_id': 25, 'e_type': 'misc'}
+{'entry': 'frei', 'translation': 'free; open; here: unoccupied', 'lesson_id': 25, 'e_type': 'misc'}
+{'entry': '(jemandem) helfen', 'translation': 'to help someone', 'lesson_id': 25, 'e_type': 'misc'}
+{'entry': 'etwas hoffen', 'translation': 'to hope something', 'lesson_id': 25, 'e_type': 'misc'}
+{'entry': 'in der Stadt', 'translation': 'in the city', 'lesson_id': 25, 'e_type': 'misc'}
+{'entry': 'kaputt', 'translation': 'broken', 'lesson_id': 25, 'e_type': 'misc'}
+{'entry': 'können', 'translation': 'to be able to; can', 'lesson_id': 25, 'e_type': 'misc'}
+{'entry': 'leben', 'translation': 'to live; to be alive', 'lesson_id': 25, 'e_type': 'misc'}
+{'entry': 'meist', 'translation': 'most of the time; usually', 'lesson_id': 25, 'e_type': 'misc'}
+{'entry': 'die Natur', 'translation': 'nature', 'lesson_id': 25, 'e_type': 'misc'}
+{'entry': 'nett', 'translation': 'nice; friendly', 'lesson_id': 25, 'e_type': 'misc'}
+{'entry': 'oft', 'translation': 'often', 'lesson_id': 25, 'e_type': 'misc'}
+{'entry': 'schnell', 'translation': 'fast', 'lesson_id': 25, 'e_type': 'misc'}
+{'entry': 'sich etwas teilen', 'translation': 'to share', 'lesson_id': 25, 'e_type': 'misc'}
+{'entry': 'um|ziehen', 'translation': 'to move (house, cities, etc.)', 'lesson_id': 25, 'e_type': 'misc'}
+{'entry': 'etwas/jemanden verstehen', 'translation': 'to understand something/someone', 'lesson_id': 25, 'e_type': 'misc'}
+{'entry': 'viele', 'translation': 'many', 'lesson_id': 25, 'e_type': 'misc'}
+{'entry': 'vielleicht', 'translation': 'perhaps; maybe', 'lesson_id': 25, 'e_type': 'misc'}
+{'entry': 'dunkel', 'translation': 'dark', 'lesson_id': 26, 'e_type': 'misc'}
+{'entry': 'Es gibt …', 'translation': 'there are (literally: it gives, it exists)', 'lesson_id': 26, 'e_type': 'misc'}
+{'entry': 'Freut mich.', 'translation': 'Pleased to meet you. ', 'lesson_id': 26, 'e_type': 'phrase'}
+{'entry': 'gemütlich', 'translation': 'cozy; comfortable', 'lesson_id': 26, 'e_type': 'misc'}
+{'entry': 'hell', 'translation': 'light; bright', 'lesson_id': 26, 'e_type': 'misc'}
+{'entry': 'hoch', 'translation': 'expensive', 'lesson_id': 26, 'e_type': 'misc'}
+{'entry': 'kurz', 'translation': 'short', 'lesson_id': 26, 'e_type': 'misc'}
+{'entry': 'lang', 'translation': 'long', 'lesson_id': 26, 'e_type': 'misc'}
+{'entry': 'laut', 'translation': 'loud/loudly', 'lesson_id': 26, 'e_type': 'misc'}
+{'entry': 'die Pommes frites (Plural)', 'translation': 'French fries', 'lesson_id': 26, 'e_type': 'misc'}
+{'entry': 'ruhig', 'translation': 'quiet; calm', 'lesson_id': 26, 'e_type': 'misc'}
+{'entry': 'etwas/jemanden sehen', 'translation': 'to see something/somebody', 'lesson_id': 26, 'e_type': 'misc'}
+{'entry': 'sitzen', 'translation': 'to sit', 'lesson_id': 26, 'e_type': 'misc'}
+{'entry': 'ungemütlich', 'translation': 'uncomfortable; unpleasant; awkward', 'lesson_id': 26, 'e_type': 'misc'}
+{'entry': 'arbeiten', 'translation': 'to work', 'lesson_id': 27, 'e_type': 'misc'}
+{'entry': 'bequem', 'translation': 'comfortable', 'lesson_id': 27, 'e_type': 'misc'}
+{'entry': 'finden', 'translation': 'to find', 'lesson_id': 27, 'e_type': 'misc'}
+{'entry': 'spießig', 'translation': 'bourgeois; square', 'lesson_id': 27, 'e_type': 'misc'}
+{'entry': 'stehen', 'translation': 'to stand; to be', 'lesson_id': 27, 'e_type': 'misc'}
+{'entry': 'unbequem', 'translation': 'uncomfortable', 'lesson_id': 27, 'e_type': 'misc'}
+{'entry': 'zu', 'translation': 'too', 'lesson_id': 27, 'e_type': 'misc'}
+{'entry': 'alle', 'translation': 'all', 'lesson_id': 28, 'e_type': 'misc'}
+{'entry': 'bald', 'translation': 'soon', 'lesson_id': 28, 'e_type': 'misc'}
+{'entry': 'daneben', 'translation': 'next to it/that', 'lesson_id': 28, 'e_type': 'misc'}
+{'entry': 'dein(e)', 'translation': 'your', 'lesson_id': 28, 'e_type': 'misc'}
+{'entry': 'doch', 'translation': 'On the contrary!', 'lesson_id': 28, 'e_type': 'misc'}
+{'entry': 'dreckig', 'translation': 'dirty', 'lesson_id': 28, 'e_type': 'misc'}
+{'entry': '(sich) duschen', 'translation': 'to shower; to take a shower', 'lesson_id': 28, 'e_type': 'misc'}
+{'entry': 'euer/eure', 'translation': 'your/yours', 'lesson_id': 28, 'e_type': 'misc'}
+{'entry': 'ihr(e)', 'translation': 'her', 'lesson_id': 28, 'e_type': 'misc'}
+{'entry': 'ihr(e)', 'translation': 'their', 'lesson_id': 28, 'e_type': 'misc'}
+{'entry': 'Ihr(e)', 'translation': 'your (formal)', 'lesson_id': 28, 'e_type': 'misc'}
+{'entry': 'immer', 'translation': 'always', 'lesson_id': 28, 'e_type': 'misc'}
+{'entry': 'Komm rein!', 'translation': 'come in', 'lesson_id': 28, 'e_type': 'phrase'}
+{'entry': 'Kommt drauf an.', 'translation': 'That depends.', 'lesson_id': 28, 'e_type': 'phrase'}
+{'entry': 'mein(e)', 'translation': 'my', 'lesson_id': 28, 'e_type': 'misc'}
+{'entry': 'Möchtest du etwas trinken?', 'translation': 'Would you like something to drink? (informal)', 'lesson_id': 28, 'e_type': 'phrase'}
+{'entry': '(etwas) putzen', 'translation': 'to clean (something)', 'lesson_id': 28, 'e_type': 'misc'}
+{'entry': 'sauber', 'translation': 'clean', 'lesson_id': 28, 'e_type': 'misc'}
+{'entry': 'schlafen', 'translation': 'to sleep', 'lesson_id': 28, 'e_type': 'misc'}
+{'entry': 'sein(e)', 'translation': 'his/its', 'lesson_id': 28, 'e_type': 'misc'}
+{'entry': 'unser(e)', 'translation': 'our', 'lesson_id': 28, 'e_type': 'misc'}
+{'entry': 'warm', 'translation': 'warm', 'lesson_id': 28, 'e_type': 'misc'}
+{'entry': 'beginnen', 'translation': 'to begin; to start', 'lesson_id': 29, 'e_type': 'misc'}
+{'entry': 'bis', 'translation': 'until', 'lesson_id': 29, 'e_type': 'misc'}
+{'entry': 'Das geht nicht.', 'translation': "That won't/doesn't work.", 'lesson_id': 29, 'e_type': 'phrase'}
+{'entry': 'Das weiß ich leider nicht.', 'translation': "Unfortunately, I don't know.", 'lesson_id': 29, 'e_type': 'phrase'}
+{'entry': 'halb', 'translation': 'half (here it is used to express time and say it is halfway to the next full hour)', 'lesson_id': 29, 'e_type': 'misc'}
+{'entry': 'krank', 'translation': 'sick; ill', 'lesson_id': 29, 'e_type': 'misc'}
+{'entry': 'morgen', 'translation': 'tomorrow', 'lesson_id': 29, 'e_type': 'misc'}
+{'entry': 'Tut mir leid.', 'translation': "I'm sorry.", 'lesson_id': 29, 'e_type': 'phrase'}
+{'entry': 'um', 'translation': 'at; around', 'lesson_id': 29, 'e_type': 'misc'}
+{'entry': 'von', 'translation': 'from', 'lesson_id': 29, 'e_type': 'misc'}
+{'entry': 'wann', 'translation': 'when', 'lesson_id': 29, 'e_type': 'misc'}
+{'entry': 'Wie spät ist es?', 'translation': 'How late is it?/What time is it?', 'lesson_id': 29, 'e_type': 'phrase'}
+{'entry': 'Wie viel Uhr ist es?', 'translation': 'What time is it?', 'lesson_id': 29, 'e_type': 'phrase'}
+{'entry': 'am Morgen', 'translation': 'in the morning', 'lesson_id': 30, 'e_type': 'misc'}
+{'entry': 'jemanden an|rufen', 'translation': 'to call someone', 'lesson_id': 30, 'e_type': 'misc'}
+{'entry': 'etwas auf|räumen', 'translation': 'to clean up something; to tidy up something', 'lesson_id': 30, 'e_type': 'misc'}
+{'entry': 'auf|stehen', 'translation': 'to get up ', 'lesson_id': 30, 'e_type': 'misc'}
+{'entry': 'aus|gehen', 'translation': 'to go out', 'lesson_id': 30, 'e_type': 'misc'}
+{'entry': 'etwas ein|kaufen', 'translation': 'to buy/shop for something', 'lesson_id': 30, 'e_type': 'misc'}
+{'entry': 'fast immer', 'translation': 'almost always', 'lesson_id': 30, 'e_type': 'misc'}
+{'entry': 'fern|sehen', 'translation': 'to watch television', 'lesson_id': 30, 'e_type': 'misc'}
+{'entry': 'frühstücken', 'translation': 'to eat breakfast', 'lesson_id': 30, 'e_type': 'misc'}
+{'entry': 'das Gemüse', 'translation': 'vegetables', 'lesson_id': 30, 'e_type': 'misc'}
+{'entry': 'jeden Tag', 'translation': 'every day', 'lesson_id': 30, 'e_type': 'misc'}
+{'entry': 'manchmal', 'translation': 'sometimes', 'lesson_id': 30, 'e_type': 'misc'}
+{'entry': 'meistens', 'translation': 'most of the time', 'lesson_id': 30, 'e_type': 'misc'}
+{'entry': 'nach', 'translation': 'after', 'lesson_id': 30, 'e_type': 'misc'}
+{'entry': 'nie', 'translation': 'never', 'lesson_id': 30, 'e_type': 'misc'}
+{'entry': 'normalerweise', 'translation': 'normally', 'lesson_id': 30, 'e_type': 'misc'}
+{'entry': 'oft', 'translation': 'often', 'lesson_id': 30, 'e_type': 'misc'}
+{'entry': 'selten', 'translation': 'seldom', 'lesson_id': 30, 'e_type': 'misc'}
+{'entry': 'wichtig', 'translation': 'important', 'lesson_id': 30, 'e_type': 'misc'}
+{'entry': 'wissen', 'translation': 'to know', 'lesson_id': 30, 'e_type': 'misc'}
+{'entry': 'Zähne putzen', 'translation': "to brush one's teeth", 'lesson_id': 30, 'e_type': 'misc'}
+{'entry': 'am Sonntag', 'translation': 'on Sunday', 'lesson_id': 31, 'e_type': 'misc'}
+{'entry': 'an|fangen', 'translation': 'to start', 'lesson_id': 31, 'e_type': 'misc'}
+{'entry': 'auf|hören', 'translation': 'to finish; to stop', 'lesson_id': 31, 'e_type': 'misc'}
+{'entry': 'fertig', 'translation': 'finished', 'lesson_id': 31, 'e_type': 'misc'}
+{'entry': '(der) Fußball', 'translation': 'soccer', 'lesson_id': 31, 'e_type': 'misc'}
+{'entry': 'gestern', 'translation': 'yesterday', 'lesson_id': 31, 'e_type': 'misc'}
+{'entry': 'glauben', 'translation': 'to believe; to think', 'lesson_id': 31, 'e_type': 'misc'}
+{'entry': 'kochen', 'translation': 'to cook', 'lesson_id': 31, 'e_type': 'misc'}
+{'entry': 'etwas korrigieren', 'translation': 'to correct something', 'lesson_id': 31, 'e_type': 'misc'}
+{'entry': 'lange', 'translation': 'long; for a long time', 'lesson_id': 31, 'e_type': 'misc'}
+{'entry': '(mit jemandem) mit|kommen', 'translation': 'to come along with someone', 'lesson_id': 31, 'e_type': 'misc'}
+{'entry': 'etwas mit|schreiben', 'translation': 'to take notes', 'lesson_id': 31, 'e_type': 'misc'}
+{'entry': 'spät', 'translation': 'late', 'lesson_id': 31, 'e_type': 'misc'}
+{'entry': 'der Unterricht', 'translation': 'lesson', 'lesson_id': 31, 'e_type': 'misc'}
+{'entry': 'etwas vor|bereiten', 'translation': 'to prepare something', 'lesson_id': 31, 'e_type': 'misc'}
+{'entry': 'jemandem etwas vor|lesen', 'translation': 'to read something to somebody', 'lesson_id': 31, 'e_type': 'misc'}
+{'entry': '(etwas) waschen', 'translation': 'to wash (something)', 'lesson_id': 31, 'e_type': 'misc'}
+{'entry': 'die Zeit', 'translation': 'time', 'lesson_id': 31, 'e_type': 'misc'}
+{'entry': 'am Wochenende', 'translation': 'on the weekend', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': 'aus|schlafen', 'translation': 'to sleep in', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': 'jemanden/etwas besuchen', 'translation': 'to visit someone/something', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': 'danach', 'translation': 'after that', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': 'dann', 'translation': 'then', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': '(etwas) denken', 'translation': 'to think', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': 'draußen ', 'translation': 'outside', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': 'drinnen', 'translation': 'inside', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': 'das Eis', 'translation': 'ice cream', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': 'Fahrrad fahren', 'translation': 'to ride a bike', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': 'früh', 'translation': 'early', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': 'Frühstück machen', 'translation': 'to make breakfast', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': 'gehen', 'translation': 'to go; to walk', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': 'ins Bett gehen', 'translation': 'to go to bed', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': 'ins Kino gehen', 'translation': 'to go to the movies', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': 'ins Theater gehen', 'translation': 'to go to the theater', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': 'Mir ist schlecht.', 'translation': "I don't feel well.", 'lesson_id': 32, 'e_type': 'phrase'}
+{'entry': 'nach draußen gehen', 'translation': 'to go outside', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': 'nach Hause gehen', 'translation': 'to go home', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': 'raus|gehen', 'translation': 'to go out', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': 'schwimmen', 'translation': 'to swim', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': 'das Tennis ', 'translation': 'tennis', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': 'Zeit haben', 'translation': 'to have time', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': 'zuerst', 'translation': 'first', 'lesson_id': 32, 'e_type': 'misc'}
+{'entry': 'ab', 'translation': 'from', 'lesson_id': 33, 'e_type': 'misc'}
+{'entry': 'ab wann', 'translation': 'from when (on)', 'lesson_id': 33, 'e_type': 'misc'}
+{'entry': 'allein', 'translation': 'alone', 'lesson_id': 33, 'e_type': 'misc'}
+{'entry': 'am', 'translation': 'on', 'lesson_id': 33, 'e_type': 'misc'}
+{'entry': 'Auf Wiederhören!', 'translation': 'Goodbye! (on the telephone)', 'lesson_id': 33, 'e_type': 'phrase'}
+{'entry': 'geöffnet haben', 'translation': 'to be open (as in: a store, business, etc.)', 'lesson_id': 33, 'e_type': 'misc'}
+{'entry': 'geschlossen haben', 'translation': 'to be closed (as in: a store, business, etc.)', 'lesson_id': 33, 'e_type': 'misc'}
+{'entry': 'halbe Stunde', 'translation': 'half an hour', 'lesson_id': 33, 'e_type': 'misc'}
+{'entry': 'in', 'translation': 'in', 'lesson_id': 33, 'e_type': 'misc'}
+{'entry': 'kurz nach', 'translation': 'shortly after', 'lesson_id': 33, 'e_type': 'misc'}
+{'entry': 'kurz vor', 'translation': 'shortly before', 'lesson_id': 33, 'e_type': 'misc'}
+{'entry': 'leider', 'translation': 'unfortunately', 'lesson_id': 33, 'e_type': 'misc'}
+{'entry': 'nach', 'translation': 'after', 'lesson_id': 33, 'e_type': 'misc'}
+{'entry': 'Viertel nach', 'translation': 'quarter past', 'lesson_id': 33, 'e_type': 'misc'}
+{'entry': 'Viertel vor', 'translation': 'quarter to', 'lesson_id': 33, 'e_type': 'misc'}
+{'entry': 'vor', 'translation': 'before', 'lesson_id': 33, 'e_type': 'misc'}
+{'entry': '(auf jemanden/etwas) warten', 'translation': 'to wait (for so./sth.)', 'lesson_id': 33, 'e_type': 'misc'}
+{'entry': 'abends', 'translation': 'in the evening', 'lesson_id': 34, 'e_type': 'misc'}
+{'entry': 'der April', 'translation': 'April', 'lesson_id': 34, 'e_type': 'misc'}
+{'entry': 'der August', 'translation': 'August', 'lesson_id': 34, 'e_type': 'misc'}
+{'entry': 'Das passt gut.', 'translation': "That works/That's fine. ", 'lesson_id': 34, 'e_type': 'phrase'}
+{'entry': 'Der Wievielte ist heute?', 'translation': 'the date (today)', 'lesson_id': 34, 'e_type': 'phrase'}
+{'entry': 'der Dezember', 'translation': 'December', 'lesson_id': 34, 'e_type': 'misc'}
+{'entry': 'der Februar', 'translation': 'February', 'lesson_id': 34, 'e_type': 'misc'}
+{'entry': 'Heute ist der …', 'translation': 'Today is the... (plus date)', 'lesson_id': 34, 'e_type': 'misc'}
+{'entry': 'der Januar', 'translation': 'January', 'lesson_id': 34, 'e_type': 'misc'}
+{'entry': 'der Juli', 'translation': 'July', 'lesson_id': 34, 'e_type': 'misc'}
+{'entry': 'der Juni', 'translation': 'June', 'lesson_id': 34, 'e_type': 'misc'}
+{'entry': 'der Mai', 'translation': 'May', 'lesson_id': 34, 'e_type': 'misc'}
+{'entry': 'der März', 'translation': 'March', 'lesson_id': 34, 'e_type': 'misc'}
+{'entry': 'mittags', 'translation': 'at noon; at midday', 'lesson_id': 34, 'e_type': 'misc'}
+{'entry': 'morgens', 'translation': 'in the mornings; every morning', 'lesson_id': 34, 'e_type': 'misc'}
+{'entry': 'nachmittags', 'translation': 'in the afternoon; in the afternoons', 'lesson_id': 34, 'e_type': 'misc'}
+{'entry': 'der November', 'translation': 'November', 'lesson_id': 34, 'e_type': 'misc'}
+{'entry': 'der Oktober', 'translation': 'October', 'lesson_id': 34, 'e_type': 'misc'}
+{'entry': '(etwas) reservieren', 'translation': 'to reserve', 'lesson_id': 34, 'e_type': 'misc'}
+{'entry': 'der September', 'translation': 'September', 'lesson_id': 34, 'e_type': 'misc'}
+{'entry': 'übermorgen', 'translation': 'the day after tomorrow', 'lesson_id': 34, 'e_type': 'misc'}
+{'entry': 'vorgestern', 'translation': 'the day before yesterday', 'lesson_id': 34, 'e_type': 'misc'}
+{'entry': 'vormittags', 'translation': 'mornings; in the morning (regularly)', 'lesson_id': 34, 'e_type': 'misc'}
+{'entry': 'etwas/jemanden brauchen', 'translation': 'to need something/somebody', 'lesson_id': 35, 'e_type': 'misc'}
+{'entry': 'Das geht.', 'translation': "That works./That's OK. ", 'lesson_id': 35, 'e_type': 'phrase'}
+{'entry': 'den ganzen Tag', 'translation': 'the entire day', 'lesson_id': 35, 'e_type': 'misc'}
+{'entry': 'dieser, diese, dieses', 'translation': 'this', 'lesson_id': 35, 'e_type': 'misc'}
+{'entry': 'erst', 'translation': 'just; only', 'lesson_id': 35, 'e_type': 'misc'}
+{'entry': 'Gute Idee.', 'translation': 'Good idea.', 'lesson_id': 35, 'e_type': 'phrase'}
+{'entry': 'Ich habe Lust.', 'translation': 'I feel like.../I would enjoy...', 'lesson_id': 35, 'e_type': 'phrase'}
+{'entry': 'Ich habe keine Lust.', 'translation': "I don't feel like it.", 'lesson_id': 35, 'e_type': 'phrase'}
+{'entry': 'können', 'translation': 'to be able to; can', 'lesson_id': 35, 'e_type': 'misc'}
+{'entry': 'Lust (auf etwas) haben', 'translation': 'to feel like something; to have a desire for something', 'lesson_id': 35, 'e_type': 'misc'}
+{'entry': 'nächster, nächste, nächstes', 'translation': 'next', 'lesson_id': 35, 'e_type': 'misc'}
+{'entry': 'noch', 'translation': 'still (i.e., still raining, still asleep)', 'lesson_id': 35, 'e_type': 'misc'}
+{'entry': 'nur', 'translation': 'only; just', 'lesson_id': 35, 'e_type': 'misc'}
+{'entry': 'schon', 'translation': 'already', 'lesson_id': 35, 'e_type': 'misc'}
+{'entry': '(jemanden) treffen', 'translation': 'to meet (someone)', 'lesson_id': 35, 'e_type': 'misc'}
+{'entry': 'wann', 'translation': 'when', 'lesson_id': 35, 'e_type': 'misc'}
+{'entry': 'etwas ab|sagen', 'translation': 'to cancel something', 'lesson_id': 36, 'e_type': 'misc'}
+{'entry': 'Das macht nichts.', 'translation': "That doesn't matter.", 'lesson_id': 36, 'e_type': 'phrase'}
+{'entry': 'ein paar Tage', 'translation': 'a few days', 'lesson_id': 36, 'e_type': 'misc'}
+{'entry': 'jemandem etwas geben', 'translation': 'to give something to someone', 'lesson_id': 36, 'e_type': 'misc'}
+{'entry': 'glauben', 'translation': 'to believe; to think', 'lesson_id': 36, 'e_type': 'misc'}
+{'entry': 'Ist schon gut.', 'translation': "It's all good./That's fine.", 'lesson_id': 36, 'e_type': 'phrase'}
+{'entry': 'die Langeweile', 'translation': 'boredom', 'lesson_id': 36, 'e_type': 'misc'}
+{'entry': 'langsam', 'translation': 'slow', 'lesson_id': 36, 'e_type': 'misc'}
+{'entry': 'modern', 'translation': 'modern', 'lesson_id': 36, 'e_type': 'misc'}
+{'entry': 'der Platz', 'translation': 'space; room', 'lesson_id': 36, 'e_type': 'misc'}
+{'entry': 'pünktlich', 'translation': 'punctual', 'lesson_id': 36, 'e_type': 'misc'}
+{'entry': 'Sorry!', 'translation': 'sorry', 'lesson_id': 36, 'e_type': 'phrase'}
+{'entry': 'Spaß haben', 'translation': 'to have fun', 'lesson_id': 36, 'e_type': 'misc'}
+{'entry': 'später', 'translation': 'later', 'lesson_id': 36, 'e_type': 'misc'}
+{'entry': 'unpünktlich', 'translation': 'tardy', 'lesson_id': 36, 'e_type': 'misc'}
+{'entry': 'Viele Grüße', 'translation': 'best regards', 'lesson_id': 36, 'e_type': 'misc'}
+{'entry': 'voll', 'translation': 'full; filled', 'lesson_id': 36, 'e_type': 'misc'}
+{'entry': 'wie', 'translation': 'as', 'lesson_id': 36, 'e_type': 'misc'}
+{'entry': 'von Beruf', 'translation': 'by profession; by trade', 'lesson_id': 37, 'e_type': 'misc'}
+{'entry': 'beruflich', 'translation': 'for work; professionally', 'lesson_id': 37, 'e_type': 'misc'}
+{'entry': 'fest', 'translation': 'here: fixed; permanent; steady', 'lesson_id': 37, 'e_type': 'misc'}
+{'entry': 'frei|haben', 'translation': 'to have time off', 'lesson_id': 37, 'e_type': 'misc'}
+{'entry': 'der Kfz-Mechatroniker, die Kfz-Mechatroniker', 'translation': 'automotive mechatronics engineer (male)', 'lesson_id': 37, 'e_type': 'misc'}
+{'entry': 'die Kfz-Mechatronikerin, die Kfz-Mechatronikerinnen', 'translation': 'automotive mechatronics engineer (female)', 'lesson_id': 37, 'e_type': 'misc'}
+{'entry': 'etwas leiten', 'translation': 'to manage; to head something', 'lesson_id': 37, 'e_type': 'misc'}
+{'entry': 'etwas mögen', 'translation': 'to like something', 'lesson_id': 37, 'e_type': 'misc'}
+{'entry': 'Stimmt.', 'translation': "That's right.", 'lesson_id': 37, 'e_type': 'phrase'}
+{'entry': 'Viel Erfolg.', 'translation': 'Good luck!', 'lesson_id': 37, 'e_type': 'phrase'}
+{'entry': 'jemanden beraten', 'translation': 'to advise someone', 'lesson_id': 38, 'e_type': 'misc'}
+{'entry': 'jemandem etwas bringen', 'translation': 'to bring something to someone', 'lesson_id': 38, 'e_type': 'misc'}
+{'entry': 'etwas buchen', 'translation': 'to book something', 'lesson_id': 38, 'e_type': 'misc'}
+{'entry': 'Finanzen überprüfen', 'translation': "to review one's finances", 'lesson_id': 38, 'e_type': 'misc'}
+{'entry': 'freundlich', 'translation': 'friendly', 'lesson_id': 38, 'e_type': 'misc'}
+{'entry': 'jeder, jede, jedes', 'translation': 'every; each', 'lesson_id': 38, 'e_type': 'misc'}
+{'entry': 'etwas/jemanden kontrollieren', 'translation': 'to check; to inspect; to double-check (tickets, boarding passes, work etc.)', 'lesson_id': 38, 'e_type': 'misc'}
+{'entry': 'lecker', 'translation': 'delicious', 'lesson_id': 38, 'e_type': 'misc'}
+{'entry': 'müssen', 'translation': 'to have to/need to', 'lesson_id': 38, 'e_type': 'misc'}
+{'entry': 'natürlich', 'translation': 'of course; naturally', 'lesson_id': 38, 'e_type': 'misc'}
+{'entry': 'etwas organisieren', 'translation': 'to organize something', 'lesson_id': 38, 'e_type': 'misc'}
+{'entry': 'etwas planen', 'translation': 'to plan something', 'lesson_id': 38, 'e_type': 'misc'}
+{'entry': 'etwas reparieren', 'translation': 'to repair something', 'lesson_id': 38, 'e_type': 'misc'}
+{'entry': 'etwas unterschreiben', 'translation': 'to sign something', 'lesson_id': 38, 'e_type': 'misc'}
+{'entry': '(etwas) zählen', 'translation': 'to count something', 'lesson_id': 38, 'e_type': 'misc'}
+{'entry': 'an', 'translation': 'at; on', 'lesson_id': 39, 'e_type': 'misc'}
+{'entry': 'auf', 'translation': 'on', 'lesson_id': 39, 'e_type': 'misc'}
+{'entry': 'dritter, dritte, drittes', 'translation': 'third', 'lesson_id': 39, 'e_type': 'misc'}
+{'entry': 'der Empfang', 'translation': 'reception; front desk', 'lesson_id': 39, 'e_type': 'misc'}
+{'entry': 'hängen', 'translation': 'to hang', 'lesson_id': 39, 'e_type': 'misc'}
+{'entry': 'hinter', 'translation': 'behind', 'lesson_id': 39, 'e_type': 'misc'}
+{'entry': 'in', 'translation': 'in', 'lesson_id': 39, 'e_type': 'misc'}
+{'entry': 'links', 'translation': 'left', 'lesson_id': 39, 'e_type': 'misc'}
+{'entry': 'neben', 'translation': 'next to', 'lesson_id': 39, 'e_type': 'misc'}
+{'entry': 'rechts', 'translation': 'right', 'lesson_id': 39, 'e_type': 'misc'}
+{'entry': 'statt|finden', 'translation': 'to take place; occur', 'lesson_id': 39, 'e_type': 'misc'}
+{'entry': 'über', 'translation': 'above; over', 'lesson_id': 39, 'e_type': 'misc'}
+{'entry': 'unter', 'translation': 'under; below', 'lesson_id': 39, 'e_type': 'misc'}
+{'entry': 'vor', 'translation': 'in front of', 'lesson_id': 39, 'e_type': 'misc'}
+{'entry': 'Wir wohnen in der ersten Etage.', 'translation': 'We live on the second floor. (American English)/We live on the first floor. (British English)', 'lesson_id': 39, 'e_type': 'phrase'}
+{'entry': 'Wo finde ich …?', 'translation': 'Where can I find...?', 'lesson_id': 39, 'e_type': 'phrase'}
+{'entry': 'zwischen', 'translation': 'between', 'lesson_id': 39, 'e_type': 'misc'}
+{'entry': 'etwas/jemanden hassen', 'translation': 'to hate something/somebody', 'lesson_id': 40, 'e_type': 'misc'}
+{'entry': 'still', 'translation': 'quiet', 'lesson_id': 40, 'e_type': 'misc'}
+{'entry': 'weg', 'translation': 'away', 'lesson_id': 40, 'e_type': 'misc'}
+{'entry': 'etwas werden', 'translation': 'to become something', 'lesson_id': 40, 'e_type': 'misc'}
+{'entry': 'wollen', 'translation': 'to want', 'lesson_id': 40, 'e_type': 'misc'}
+{'entry': 'zu Hause', 'translation': 'at home', 'lesson_id': 40, 'e_type': 'misc'}
+{'entry': 'etwas behalten', 'translation': 'to keep; to maintain', 'lesson_id': 41, 'e_type': 'misc'}
+{'entry': 'bei', 'translation': 'here: at', 'lesson_id': 41, 'e_type': 'misc'}
+{'entry': 'etwas', 'translation': 'something', 'lesson_id': 41, 'e_type': 'misc'}
+{'entry': 'in der Nähe (von)', 'translation': 'near', 'lesson_id': 41, 'e_type': 'misc'}
+{'entry': 'etwas kaufen', 'translation': 'to buy something', 'lesson_id': 41, 'e_type': 'misc'}
+{'entry': 'die Post', 'translation': 'post office', 'lesson_id': 41, 'e_type': 'misc'}
+{'entry': 'jemandem etwas schenken', 'translation': 'to give someone something (a present)', 'lesson_id': 41, 'e_type': 'misc'}
+{'entry': 'etwas zurück|geben', 'translation': 'to give something back; to return something', 'lesson_id': 41, 'e_type': 'misc'}
+{'entry': 'auf der linken Seite', 'translation': 'on the left side; on the left-hand side', 'lesson_id': 42, 'e_type': 'misc'}
+{'entry': 'auf der rechten Seite', 'translation': 'on the right side', 'lesson_id': 42, 'e_type': 'misc'}
+{'entry': 'bis zu', 'translation': '(up) to', 'lesson_id': 42, 'e_type': 'misc'}
+{'entry': 'dorthin', 'translation': '(to) there (implies motion towards)', 'lesson_id': 42, 'e_type': 'misc'}
+{'entry': 'durch', 'translation': 'through', 'lesson_id': 42, 'e_type': 'misc'}
+{'entry': 'entlang|gehen', 'translation': 'to walk down; to walk along', 'lesson_id': 42, 'e_type': 'misc'}
+{'entry': 'etwas/jemanden finden', 'translation': 'to find something/somebody', 'lesson_id': 42, 'e_type': 'misc'}
+{'entry': 'geradeaus', 'translation': 'straight ahead', 'lesson_id': 42, 'e_type': 'misc'}
+{'entry': 'nah', 'translation': 'close; nearby', 'lesson_id': 42, 'e_type': 'misc'}
+{'entry': 'parken', 'translation': 'to park', 'lesson_id': 42, 'e_type': 'misc'}
+{'entry': 'rechts/links in eine Straße biegen', 'translation': 'to turn left/right on to a street', 'lesson_id': 42, 'e_type': 'misc'}
+{'entry': 'überqueren', 'translation': 'to cross', 'lesson_id': 42, 'e_type': 'misc'}
+{'entry': 'vorbei|gehen', 'translation': 'to pass (by)', 'lesson_id': 42, 'e_type': 'misc'}
+{'entry': 'weit', 'translation': 'far; long', 'lesson_id': 42, 'e_type': 'misc'}
+{'entry': 'zu', 'translation': 'on; at', 'lesson_id': 42, 'e_type': 'misc'}
+{'entry': 'zu Fuß gehen', 'translation': 'to go by foot', 'lesson_id': 42, 'e_type': 'misc'}
+{'entry': 'an|kommen', 'translation': 'to arrive', 'lesson_id': 43, 'e_type': 'misc'}
+{'entry': 'dauern', 'translation': 'to last', 'lesson_id': 43, 'e_type': 'misc'}
+{'entry': 'hin und zurück', 'translation': 'there and back; to and from (often used to imply roundtrip travel)', 'lesson_id': 43, 'e_type': 'misc'}
+{'entry': 'hoffentlich', 'translation': 'hopefully', 'lesson_id': 43, 'e_type': 'misc'}
+{'entry': 'mit', 'translation': 'by', 'lesson_id': 43, 'e_type': 'misc'}
+{'entry': 'die U-Bahn, die U-Bahnen', 'translation': 'subway; underground', 'lesson_id': 43, 'e_type': 'misc'}
+{'entry': 'um|steigen', 'translation': 'to change (trains, buses etc.)', 'lesson_id': 43, 'e_type': 'misc'}
+{'entry': 'wie lange', 'translation': 'how long', 'lesson_id': 43, 'e_type': 'misc'}
+{'entry': 'Das kann nicht sein.', 'translation': 'That cannot be.', 'lesson_id': 44, 'e_type': 'phrase'}
+{'entry': 'endlich', 'translation': 'finally; at last', 'lesson_id': 44, 'e_type': 'misc'}
+{'entry': 'Ich muss los.', 'translation': 'I have to go.', 'lesson_id': 44, 'e_type': 'phrase'}
+{'entry': 'Lieber/Liebe …', 'translation': 'Dear ... (here: form of address)', 'lesson_id': 44, 'e_type': 'misc'}
+{'entry': 'liegen', 'translation': 'to lie, to be in a horizontal position', 'lesson_id': 44, 'e_type': 'misc'}
+{'entry': 'das Post-It, die Post-Its', 'translation': 'post-it note', 'lesson_id': 44, 'e_type': 'misc'}
+{'entry': 'Schönen Tag noch!', 'translation': 'Have a good rest of the day!', 'lesson_id': 44, 'e_type': 'phrase'}
+{'entry': 'schrecklich', 'translation': 'awful', 'lesson_id': 44, 'e_type': 'misc'}
+{'entry': 'der Verkehr', 'translation': 'traffic', 'lesson_id': 44, 'e_type': 'misc'}
+{'entry': 'beliebt', 'translation': 'popular', 'lesson_id': 45, 'e_type': 'misc'}
+{'entry': 'die Butter', 'translation': 'butter', 'lesson_id': 45, 'e_type': 'misc'}
+{'entry': 'dazu', 'translation': 'along with it', 'lesson_id': 45, 'e_type': 'misc'}
+{'entry': 'das Fleisch', 'translation': 'meat', 'lesson_id': 45, 'e_type': 'misc'}
+{'entry': 'Lieblings-', 'translation': 'favorite (prefix in compound words i.e. favorite food, favorite color etc.)', 'lesson_id': 45, 'e_type': 'misc'}
+{'entry': 'der Müll', 'translation': 'garbage; trash', 'lesson_id': 45, 'e_type': 'misc'}
+{'entry': 'oben', 'translation': 'above; up; on top', 'lesson_id': 45, 'e_type': 'misc'}
+{'entry': 'das Obst', 'translation': 'fruit', 'lesson_id': 45, 'e_type': 'misc'}
+{'entry': '(etwas) öffnen', 'translation': 'to open (something)', 'lesson_id': 45, 'e_type': 'misc'}
+{'entry': 'der Quark', 'translation': 'curd ', 'lesson_id': 45, 'e_type': 'misc'}
+{'entry': 'der Reis', 'translation': 'rice', 'lesson_id': 45, 'e_type': 'misc'}
+{'entry': 'der Alkohol', 'translation': 'alcohol', 'lesson_id': 46, 'e_type': 'misc'}
+{'entry': 'alles', 'translation': 'everything', 'lesson_id': 46, 'e_type': 'misc'}
+{'entry': 'als', 'translation': 'than', 'lesson_id': 46, 'e_type': 'misc'}
+{'entry': 'also', 'translation': 'so; therefore', 'lesson_id': 46, 'e_type': 'misc'}
+{'entry': 'am liebsten', 'translation': 'best; preferably', 'lesson_id': 46, 'e_type': 'misc'}
+{'entry': 'fast', 'translation': 'almost', 'lesson_id': 46, 'e_type': 'misc'}
+{'entry': 'gesund', 'translation': 'healthy', 'lesson_id': 46, 'e_type': 'misc'}
+{'entry': 'lieber ', 'translation': 'rather; to prefer', 'lesson_id': 46, 'e_type': 'misc'}
+{'entry': 'pro', 'translation': 'per', 'lesson_id': 46, 'e_type': 'misc'}
+{'entry': '(jemandem) schmecken', 'translation': 'to taste ', 'lesson_id': 46, 'e_type': 'misc'}
+{'entry': 'vegetarisch', 'translation': 'vegetarian', 'lesson_id': 46, 'e_type': 'misc'}
+{'entry': 'welcher, welche, welches', 'translation': 'which', 'lesson_id': 46, 'e_type': 'misc'}
+{'entry': 'wieder|kommen', 'translation': 'to come back; to return', 'lesson_id': 46, 'e_type': 'misc'}
+{'entry': 'etwas ab|trocknen', 'translation': 'to dry something (off) ', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': 'etwas ab|waschen', 'translation': 'to wash', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': 'etwas auf|hängen', 'translation': 'to hang up something', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': 'etwas aus|räumen', 'translation': 'to empty', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': 'etwas ein|räumen', 'translation': 'to put something away; to load (a dishwasher)', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': 'genauso', 'translation': 'just as', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': 'das Geschirr', 'translation': 'crockery; dishes', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': 'gleich', 'translation': 'just as; (the) same; equally', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': 'häufig', 'translation': 'often; frequently', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': 'in Ordnung', 'translation': 'fine; alright; OK', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': 'kehren', 'translation': 'to sweep', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': '(jemandem) etwas mit|bringen', 'translation': 'bring (someone) something', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': 'niemals', 'translation': 'never (ever)', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': 'nie mehr', 'translation': 'never again', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': 'ordentlich', 'translation': 'tidy; neat; proper', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': 'regelmäßig', 'translation': 'regular/regularly', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': 'saugen', 'translation': 'to vacuum', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': 'spülen', 'translation': 'to wash', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': 'ständig', 'translation': 'constantly', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': 'staubsaugen', 'translation': 'to vacuum', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': 'unordentlich', 'translation': 'messy; untidy', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': 'die Wäsche', 'translation': 'washing; laundry', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': 'wie', 'translation': 'as', 'lesson_id': 47, 'e_type': 'misc'}
+{'entry': 'angeln', 'translation': 'to fish', 'lesson_id': 48, 'e_type': 'misc'}
+{'entry': 'anstrengend', 'translation': 'strenuous', 'lesson_id': 48, 'e_type': 'misc'}
+{'entry': 'einmal', 'translation': 'once', 'lesson_id': 48, 'e_type': 'misc'}
+{'entry': 'entspannend', 'translation': 'relaxing', 'lesson_id': 48, 'e_type': 'misc'}
+{'entry': '(etwas/jemanden) fotografieren', 'translation': 'to photograph someone/something', 'lesson_id': 48, 'e_type': 'misc'}
+{'entry': 'die Freizeit', 'translation': 'freetime', 'lesson_id': 48, 'e_type': 'misc'}
+{'entry': 'Guten Appetit.', 'translation': 'Bon appétit.', 'lesson_id': 48, 'e_type': 'phrase'}
+{'entry': 'interessant', 'translation': 'interesting', 'lesson_id': 48, 'e_type': 'misc'}
+{'entry': 'joggen', 'translation': 'to jog', 'lesson_id': 48, 'e_type': 'misc'}
+{'entry': 'langweilig', 'translation': 'boring', 'lesson_id': 48, 'e_type': 'misc'}
+{'entry': 'laufen', 'translation': 'to run; to jog', 'lesson_id': 48, 'e_type': 'misc'}
+{'entry': 'müde', 'translation': 'tired', 'lesson_id': 48, 'e_type': 'misc'}
+{'entry': '(jemandem) Spaß machen', 'translation': 'is fun; to enjoy', 'lesson_id': 48, 'e_type': 'misc'}
+{'entry': 'spazieren gehen', 'translation': 'to go for a walk', 'lesson_id': 48, 'e_type': 'misc'}
+{'entry': 'Sport treiben', 'translation': 'do sports; work out', 'lesson_id': 48, 'e_type': 'misc'}
+{'entry': 'wandern', 'translation': 'to hike', 'lesson_id': 48, 'e_type': 'misc'}
+{'entry': 'das Yoga', 'translation': 'yoga', 'lesson_id': 48, 'e_type': 'misc'}
+{'entry': 'etwas bekommen', 'translation': 'to receive something; to get something', 'lesson_id': 49, 'e_type': 'misc'}
+{'entry': 'halb', 'translation': 'half', 'lesson_id': 49, 'e_type': 'misc'}
+{'entry': 'Kannst du das wiederholen?', 'translation': 'Can you repeat that? (informal)', 'lesson_id': 49, 'e_type': 'phrase'}
+{'entry': 'der Mais', 'translation': 'corn', 'lesson_id': 49, 'e_type': 'misc'}
+{'entry': 'das Mehl', 'translation': 'flour', 'lesson_id': 49, 'e_type': 'misc'}
+{'entry': '(über jemanden/etwas) reden', 'translation': 'to talk about someone/something', 'lesson_id': 49, 'e_type': 'misc'}
+{'entry': 'das Rindfleisch', 'translation': 'beef', 'lesson_id': 49, 'e_type': 'misc'}
+{'entry': 'die Schokolade', 'translation': 'chocolate', 'lesson_id': 49, 'e_type': 'misc'}
+{'entry': 'umsonst', 'translation': 'free; for nothing', 'lesson_id': 49, 'e_type': 'misc'}
+{'entry': 'am Stück', 'translation': 'in one piece', 'lesson_id': 50, 'e_type': 'misc'}
+{'entry': 'Darf es sonst noch was sein?', 'translation': 'Would you like anything else?', 'lesson_id': 50, 'e_type': 'phrase'}
+{'entry': 'Das ist alles.', 'translation': "That's everything.", 'lesson_id': 50, 'e_type': 'phrase'}
+{'entry': 'Das macht dann …', 'translation': "That'll be...", 'lesson_id': 50, 'e_type': 'misc'}
+{'entry': 'Haben Sie sonst noch einen Wunsch?', 'translation': "Is there something else you'd like?", 'lesson_id': 50, 'e_type': 'phrase'}
+{'entry': 'Ich hätte gerne …', 'translation': 'I would like...', 'lesson_id': 50, 'e_type': 'misc'}
+{'entry': 'etwas schneiden', 'translation': 'to cut something', 'lesson_id': 50, 'e_type': 'misc'}
+{'entry': '(sich) sicher sein', 'translation': 'to be certain', 'lesson_id': 50, 'e_type': 'misc'}
+{'entry': 'etwas/jemanden vergessen', 'translation': 'to forget something/someone', 'lesson_id': 50, 'e_type': 'misc'}
+{'entry': 'Was darf es sein?', 'translation': 'What would you like?', 'lesson_id': 50, 'e_type': 'phrase'}
+{'entry': 'Was hätten Sie gern?', 'translation': 'What would you like to have? (formal)', 'lesson_id': 50, 'e_type': 'phrase'}
+{'entry': 'Was kann ich für Sie tun?', 'translation': 'What can I do for you?', 'lesson_id': 50, 'e_type': 'phrase'}
+{'entry': 'etwas zurück|bekommen', 'translation': 'to get something back', 'lesson_id': 50, 'e_type': 'misc'}
+{'entry': 'frisch', 'translation': 'fresh', 'lesson_id': 51, 'e_type': 'misc'}
+{'entry': 'günstig', 'translation': 'inexpensive', 'lesson_id': 51, 'e_type': 'misc'}
+{'entry': 'im Angebot sein', 'translation': 'on special; on sale', 'lesson_id': 51, 'e_type': 'misc'}
+{'entry': 'Sie wünschen?', 'translation': 'Can I help you?; What can I do for you?', 'lesson_id': 51, 'e_type': 'phrase'}
+{'entry': 'süß', 'translation': 'sweet', 'lesson_id': 51, 'e_type': 'misc'}
+{'entry': 'Wie teuer sind die Tomaten?', 'translation': 'How expensive are the tomatoes?', 'lesson_id': 51, 'e_type': 'phrase'}
+{'entry': '(etwas) backen', 'translation': 'to bake (something)', 'lesson_id': 52, 'e_type': 'misc'}
+{'entry': 'etwas bestreuen', 'translation': 'to sprinkle (something)', 'lesson_id': 52, 'e_type': 'misc'}
+{'entry': 'etwas braten', 'translation': 'to fry something', 'lesson_id': 52, 'e_type': 'misc'}
+{'entry': 'circa', 'translation': 'roughly; circa', 'lesson_id': 52, 'e_type': 'misc'}
+{'entry': 'gießen', 'translation': 'to pour; to water', 'lesson_id': 52, 'e_type': 'misc'}
+{'entry': 'der Knoblauch', 'translation': 'garlic', 'lesson_id': 52, 'e_type': 'misc'}
+{'entry': 'leicht', 'translation': 'easy', 'lesson_id': 52, 'e_type': 'misc'}
+{'entry': 'der Pfeffer', 'translation': 'pepper', 'lesson_id': 52, 'e_type': 'misc'}
+{'entry': 'die Sahne', 'translation': 'cream', 'lesson_id': 52, 'e_type': 'misc'}
+{'entry': 'das Salz', 'translation': 'salt', 'lesson_id': 52, 'e_type': 'misc'}
+{'entry': 'etwas schälen', 'translation': 'to peel something', 'lesson_id': 52, 'e_type': 'misc'}
+{'entry': 'etwas schneiden', 'translation': 'to cut something', 'lesson_id': 52, 'e_type': 'misc'}
+{'entry': 'etwas klein schneiden', 'translation': 'to cut something into small pieces; to dice something', 'lesson_id': 52, 'e_type': 'misc'}
+{'entry': 'schwer', 'translation': 'difficult', 'lesson_id': 52, 'e_type': 'misc'}
+{'entry': 'etwas servieren', 'translation': 'to serve something', 'lesson_id': 52, 'e_type': 'misc'}
+{'entry': 'stehen', 'translation': 'to say (referencing something printed)', 'lesson_id': 52, 'e_type': 'misc'}
+{'entry': 'der Tofu', 'translation': 'tofu', 'lesson_id': 52, 'e_type': 'misc'}
+{'entry': 'etwas verrühren', 'translation': 'to stir something', 'lesson_id': 52, 'e_type': 'misc'}
+{'entry': '(etwas) würzen', 'translation': 'to season (something)', 'lesson_id': 52, 'e_type': 'misc'}
+{'entry': 'zum Schluss', 'translation': 'at the end', 'lesson_id': 52, 'e_type': 'misc'}
+{'entry': 'aus|steigen', 'translation': 'to get out', 'lesson_id': 53, 'e_type': 'misc'}
+{'entry': 'etwas besichtigen', 'translation': 'to visit something', 'lesson_id': 53, 'e_type': 'misc'}
+{'entry': 'fantastisch', 'translation': 'fantastic', 'lesson_id': 53, 'e_type': 'misc'}
+{'entry': 'faulenzen', 'translation': 'to lounge around', 'lesson_id': 53, 'e_type': 'misc'}
+{'entry': 'die Ferien (Plural)', 'translation': 'holidays; vacation', 'lesson_id': 53, 'e_type': 'misc'}
+{'entry': 'gar nichts', 'translation': 'nothing whatsoever', 'lesson_id': 53, 'e_type': 'misc'}
+{'entry': 'das Gepäck', 'translation': 'baggage; luggage', 'lesson_id': 53, 'e_type': 'misc'}
+{'entry': 'gerade', 'translation': 'just now; at the moment', 'lesson_id': 53, 'e_type': 'misc'}
+{'entry': 'das Glück', 'translation': 'luck', 'lesson_id': 53, 'e_type': 'misc'}
+{'entry': 'großartig', 'translation': 'magnificent; brilliant; fabulous', 'lesson_id': 53, 'e_type': 'misc'}
+{'entry': 'jemanden/etwas holen', 'translation': 'to get someone/something; to fetch someone/something', 'lesson_id': 53, 'e_type': 'misc'}
+{'entry': 'die Sommerferien (Plural)', 'translation': 'summer vacation', 'lesson_id': 53, 'e_type': 'misc'}
+{'entry': 'stehen bleiben', 'translation': 'to remain', 'lesson_id': 53, 'e_type': 'misc'}
+{'entry': '(etwas) stoppen', 'translation': 'to stop (something)', 'lesson_id': 53, 'e_type': 'misc'}
+{'entry': 'übernachten', 'translation': 'to spend the night', 'lesson_id': 53, 'e_type': 'misc'}
+{'entry': 'Urlaub machen', 'translation': 'to go on vacation; to take a vacation', 'lesson_id': 53, 'e_type': 'misc'}
+{'entry': 'zelten', 'translation': 'to camp in a tent', 'lesson_id': 53, 'e_type': 'misc'}
+{'entry': 'als', 'translation': 'than', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'bekannt', 'translation': 'famous', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'finden', 'translation': 'to find', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'frieren', 'translation': 'to freeze; to be cold', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'genauso', 'translation': 'just as', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'grün', 'translation': 'green', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'heiß', 'translation': 'hot', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'kalt', 'translation': 'cold', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'die Kälte', 'translation': 'cold; coldness; cold weather', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'etwas/jemanden mit|nehmen', 'translation': 'to take something/someone along', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'nass', 'translation': 'wet', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'regnerisch', 'translation': 'rainy', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'schlimm', 'translation': 'terrible', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'schön', 'translation': 'nice; beautiful; pretty', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'schwer', 'translation': 'heavy', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'Ski fahren', 'translation': 'to ski', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'sonnig', 'translation': 'sunny', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'spannend', 'translation': 'exciting; gripping', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'trocken', 'translation': 'dry', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'etwas verlieren', 'translation': 'to lose something', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'warm', 'translation': 'warm', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'wie', 'translation': 'as', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'windig', 'translation': 'windy', 'lesson_id': 54, 'e_type': 'misc'}
+{'entry': 'entspannt', 'translation': 'relaxed', 'lesson_id': 55, 'e_type': 'misc'}
+{'entry': '(etwas) essen', 'translation': 'to eat (something)', 'lesson_id': 55, 'e_type': 'misc'}
+{'entry': 'fliegen', 'translation': 'to fly; to fly in an airplane', 'lesson_id': 55, 'e_type': 'misc'}
+{'entry': '(etwas) grillen', 'translation': 'to grill; to barbecue (something)', 'lesson_id': 55, 'e_type': 'misc'}
+{'entry': 'lachen', 'translation': 'to laugh', 'lesson_id': 55, 'e_type': 'misc'}
+{'entry': 'lange her sein', 'translation': 'to be a long time ago', 'lesson_id': 55, 'e_type': 'misc'}
+{'entry': 'nichts', 'translation': 'nothing', 'lesson_id': 55, 'e_type': 'misc'}
+{'entry': 'reisen', 'translation': 'to travel', 'lesson_id': 55, 'e_type': 'misc'}
+{'entry': 'etwas verkaufen', 'translation': 'sell', 'lesson_id': 55, 'e_type': 'misc'}
+{'entry': 'weg|fahren', 'translation': 'to go away', 'lesson_id': 55, 'e_type': 'misc'}
+{'entry': 'das Wetter', 'translation': 'weather', 'lesson_id': 55, 'e_type': 'misc'}
+{'entry': 'auf Platz eins', 'translation': 'in first place', 'lesson_id': 56, 'e_type': 'misc'}
+{'entry': 'auf|wachen ', 'translation': 'to wake up', 'lesson_id': 56, 'e_type': 'misc'}
+{'entry': 'bewölkt', 'translation': 'cloudy', 'lesson_id': 56, 'e_type': 'misc'}
+{'entry': 'bleiben', 'translation': 'to stay', 'lesson_id': 56, 'e_type': 'misc'}
+{'entry': 'ein|schlafen', 'translation': 'to fall asleep', 'lesson_id': 56, 'e_type': 'misc'}
+{'entry': 'gemein', 'translation': 'cruel; nasty', 'lesson_id': 56, 'e_type': 'misc'}
+{'entry': 'grau', 'translation': 'gray', 'lesson_id': 56, 'e_type': 'misc'}
+{'entry': 'heiter', 'translation': 'sunny', 'lesson_id': 56, 'e_type': 'misc'}
+{'entry': 'der Himmel', 'translation': 'sky', 'lesson_id': 56, 'e_type': 'misc'}
+{'entry': 'kompliziert', 'translation': 'complicated; complex', 'lesson_id': 56, 'e_type': 'misc'}
+{'entry': 'kühl', 'translation': 'cool', 'lesson_id': 56, 'e_type': 'misc'}
+{'entry': 'neblig', 'translation': 'foggy', 'lesson_id': 56, 'e_type': 'misc'}
+{'entry': 'passieren', 'translation': 'to happen', 'lesson_id': 56, 'e_type': 'misc'}
+{'entry': 'die Politik', 'translation': 'politics', 'lesson_id': 56, 'e_type': 'misc'}
+{'entry': 'der Regen', 'translation': 'rain', 'lesson_id': 56, 'e_type': 'misc'}
+{'entry': 'regnen', 'translation': 'to rain', 'lesson_id': 56, 'e_type': 'misc'}
+{'entry': 'scheinen', 'translation': 'to shine', 'lesson_id': 56, 'e_type': 'misc'}
+{'entry': 'der Schnee', 'translation': 'snow', 'lesson_id': 56, 'e_type': 'misc'}
+{'entry': 'schneien', 'translation': 'to snow', 'lesson_id': 56, 'e_type': 'misc'}
+{'entry': 'die Wärme', 'translation': 'warmth; heat', 'lesson_id': 56, 'e_type': 'misc'}
+{'entry': 'wehen', 'translation': 'to blow', 'lesson_id': 56, 'e_type': 'misc'}
+{'entry': 'dick', 'translation': 'thick; heavy', 'lesson_id': 57, 'e_type': 'misc'}
+{'entry': 'dünn', 'translation': 'thin', 'lesson_id': 57, 'e_type': 'misc'}
+{'entry': 'etwas ein|packen', 'translation': 'to pack something', 'lesson_id': 57, 'e_type': 'misc'}
+{'entry': 'hässlich', 'translation': 'ugly', 'lesson_id': 57, 'e_type': 'misc'}
+{'entry': 'in', 'translation': 'in; in fashion', 'lesson_id': 57, 'e_type': 'misc'}
+{'entry': 'die Kleidung', 'translation': 'clothes', 'lesson_id': 57, 'e_type': 'misc'}
+{'entry': '(die) Sachen zum Anziehen (Plural)', 'translation': 'things to wear', 'lesson_id': 57, 'e_type': 'misc'}
+{'entry': 'schick', 'translation': 'fancy; dressy', 'lesson_id': 57, 'e_type': 'misc'}
+{'entry': 'etwas tragen', 'translation': 'to wear something', 'lesson_id': 57, 'e_type': 'misc'}
+{'entry': 'weit', 'translation': 'wide', 'lesson_id': 57, 'e_type': 'misc'}
+{'entry': 'Wie bitte?', 'translation': 'Come again?/Pardon me?', 'lesson_id': 57, 'e_type': 'phrase'}
+{'entry': 'altmodisch', 'translation': 'old-fashioned', 'lesson_id': 58, 'e_type': 'misc'}
+{'entry': 'etwas an|ziehen', 'translation': 'to put something on', 'lesson_id': 58, 'e_type': 'misc'}
+{'entry': 'beide', 'translation': 'both', 'lesson_id': 58, 'e_type': 'misc'}
+{'entry': 'blau', 'translation': 'blue', 'lesson_id': 58, 'e_type': 'misc'}
+{'entry': 'braun', 'translation': 'brown', 'lesson_id': 58, 'e_type': 'misc'}
+{'entry': 'bunt', 'translation': 'colorful', 'lesson_id': 58, 'e_type': 'misc'}
+{'entry': 'dieser, diese, dieses', 'translation': 'this', 'lesson_id': 58, 'e_type': 'misc'}
+{'entry': 'gelb', 'translation': 'yellow', 'lesson_id': 58, 'e_type': 'misc'}
+{'entry': 'grau', 'translation': 'gray', 'lesson_id': 58, 'e_type': 'misc'}
+{'entry': 'grün', 'translation': 'green', 'lesson_id': 58, 'e_type': 'misc'}
+{'entry': 'lila', 'translation': 'purple', 'lesson_id': 58, 'e_type': 'misc'}
+{'entry': 'etwas mischen', 'translation': 'to mix something', 'lesson_id': 58, 'e_type': 'misc'}
+{'entry': 'orange', 'translation': 'orange', 'lesson_id': 58, 'e_type': 'misc'}
+{'entry': 'rosa', 'translation': 'pink', 'lesson_id': 58, 'e_type': 'misc'}
+{'entry': 'rot', 'translation': 'red', 'lesson_id': 58, 'e_type': 'misc'}
+{'entry': 'schwarz', 'translation': 'black', 'lesson_id': 58, 'e_type': 'misc'}
+{'entry': 'weiß', 'translation': 'white', 'lesson_id': 58, 'e_type': 'misc'}
+{'entry': 'ziemlich', 'translation': 'pretty; quite; rather', 'lesson_id': 58, 'e_type': 'misc'}
+{'entry': 'etwas an|probieren', 'translation': 'to try something on', 'lesson_id': 59, 'e_type': 'misc'}
+{'entry': 'aus|sehen', 'translation': 'to look like; to look as though', 'lesson_id': 59, 'e_type': 'misc'}
+{'entry': 'beige', 'translation': 'beige', 'lesson_id': 59, 'e_type': 'misc'}
+{'entry': 'egal', 'translation': 'irrelevant; no matter', 'lesson_id': 59, 'e_type': 'misc'}
+{'entry': 'elegant', 'translation': 'elegant', 'lesson_id': 59, 'e_type': 'misc'}
+{'entry': 'eng', 'translation': 'tight', 'lesson_id': 59, 'e_type': 'misc'}
+{'entry': 'jemandem gefallen', 'translation': 'to appeal to someone', 'lesson_id': 59, 'e_type': 'misc'}
+{'entry': 'Das gefällt mir.', 'translation': 'I like that.', 'lesson_id': 59, 'e_type': 'phrase'}
+{'entry': 'jemandem passen', 'translation': 'to fit somebody', 'lesson_id': 59, 'e_type': 'misc'}
+{'entry': 'stehen', 'translation': 'to fit someone; to look good on someone; something flatters someone', 'lesson_id': 59, 'e_type': 'misc'}
+{'entry': 'Das steht dir gut!', 'translation': 'That looks good on you!', 'lesson_id': 59, 'e_type': 'phrase'}
+{'entry': 'Steht mir die Hose?', 'translation': 'Do these pants look good on me?', 'lesson_id': 59, 'e_type': 'phrase'}
+{'entry': 'der Stock', 'translation': 'floor', 'lesson_id': 59, 'e_type': 'misc'}
+{'entry': 'Welche Größe haben Sie?', 'translation': 'What size do you wear?', 'lesson_id': 59, 'e_type': 'phrase'}
+{'entry': 'Wie findest du ...?', 'translation': 'What do you think about ...?', 'lesson_id': 59, 'e_type': 'phrase'}
+{'entry': 'etwas an|haben', 'translation': 'to have something on; to wear something', 'lesson_id': 60, 'e_type': 'misc'}
+{'entry': 'formell', 'translation': 'formal', 'lesson_id': 60, 'e_type': 'misc'}
+{'entry': 'geblümt', 'translation': 'flowery; floral (print)', 'lesson_id': 60, 'e_type': 'misc'}
+{'entry': 'gepunktet', 'translation': 'polka-dotted; spotted', 'lesson_id': 60, 'e_type': 'misc'}
+{'entry': 'gestreift', 'translation': 'striped', 'lesson_id': 60, 'e_type': 'misc'}
+{'entry': 'grell', 'translation': 'bright; glaring', 'lesson_id': 60, 'e_type': 'misc'}
+{'entry': 'her|kommen', 'translation': 'to come from', 'lesson_id': 60, 'e_type': 'misc'}
+{'entry': 'hoch', 'translation': 'high; tall', 'lesson_id': 60, 'e_type': 'misc'}
+{'entry': 'hübsch', 'translation': 'beautiful; pretty', 'lesson_id': 60, 'e_type': 'misc'}
+{'entry': 'jung', 'translation': 'young', 'lesson_id': 60, 'e_type': 'misc'}
+{'entry': 'kariert', 'translation': 'checkered; plaid', 'lesson_id': 60, 'e_type': 'misc'}
+{'entry': 'leben', 'translation': 'to live; to be alive', 'lesson_id': 60, 'e_type': 'misc'}
+{'entry': 'nicht mehr', 'translation': 'no more; not anymore', 'lesson_id': 60, 'e_type': 'misc'}
+{'entry': 'schlicht', 'translation': 'simple; modest; plain', 'lesson_id': 60, 'e_type': 'misc'}
+{'entry': 'etwas aus|ziehen', 'translation': 'to take something off', 'lesson_id': 61, 'e_type': 'misc'}
+{'entry': 'die Eltern (Plural)', 'translation': 'parents', 'lesson_id': 61, 'e_type': 'misc'}
+{'entry': 'geschieden', 'translation': 'divorced', 'lesson_id': 61, 'e_type': 'misc'}
+{'entry': 'die Großeltern (Plural)', 'translation': 'grandparents', 'lesson_id': 61, 'e_type': 'misc'}
+{'entry': 'ledig', 'translation': 'single', 'lesson_id': 61, 'e_type': 'misc'}
+{'entry': 'pink', 'translation': 'pink', 'lesson_id': 61, 'e_type': 'misc'}
+{'entry': 'tot', 'translation': 'dead', 'lesson_id': 61, 'e_type': 'misc'}
+{'entry': 'verheiratet', 'translation': 'married', 'lesson_id': 61, 'e_type': 'misc'}
+{'entry': 'verwitwet', 'translation': 'widowed', 'lesson_id': 61, 'e_type': 'misc'}
+{'entry': 'alt', 'translation': 'old', 'lesson_id': 62, 'e_type': 'misc'}
+{'entry': 'berufstätig', 'translation': 'employed; working', 'lesson_id': 62, 'e_type': 'misc'}
+{'entry': 'jemanden erreichen', 'translation': 'to reach someone; to get in touch with someone', 'lesson_id': 62, 'e_type': 'misc'}
+{'entry': 'für', 'translation': 'for', 'lesson_id': 62, 'e_type': 'misc'}
+{'entry': 'jemanden/etwas kennen|lernen', 'translation': 'to get to know someone/something', 'lesson_id': 62, 'e_type': 'misc'}
+{'entry': 'Streit haben', 'translation': 'to fight; to quarrel', 'lesson_id': 62, 'e_type': 'misc'}
+{'entry': 'streiten', 'translation': 'to argue', 'lesson_id': 62, 'e_type': 'misc'}
+{'entry': 'ungefähr', 'translation': 'approximate; rough', 'lesson_id': 62, 'e_type': 'misc'}
+{'entry': 'verreisen', 'translation': 'to go away; to travel', 'lesson_id': 62, 'e_type': 'misc'}
+{'entry': 'auf|legen', 'translation': 'to hang up', 'lesson_id': 63, 'e_type': 'misc'}
+{'entry': 'Blumen gießen', 'translation': 'to water flowers', 'lesson_id': 63, 'e_type': 'misc'}
+{'entry': 'jemanden heiraten', 'translation': 'to marry somebody', 'lesson_id': 63, 'e_type': 'misc'}
+{'entry': 'immer mehr', 'translation': 'more and more; increasing', 'lesson_id': 63, 'e_type': 'misc'}
+{'entry': 'konservativ', 'translation': 'conservative', 'lesson_id': 63, 'e_type': 'misc'}
+{'entry': 'männlich', 'translation': 'masculine; manly', 'lesson_id': 63, 'e_type': 'misc'}
+{'entry': 'schmutzig', 'translation': 'dirty', 'lesson_id': 63, 'e_type': 'misc'}
+{'entry': 'sein eigener Chef sein / ihre eigene Chefin sein', 'translation': "to be one's own boss (male/female)", 'lesson_id': 63, 'e_type': 'misc'}
+{'entry': 'typisch', 'translation': 'typical', 'lesson_id': 63, 'e_type': 'misc'}
+{'entry': 'unabhängig', 'translation': 'independent', 'lesson_id': 63, 'e_type': 'misc'}
+{'entry': 'undenkbar', 'translation': 'unthinkable', 'lesson_id': 63, 'e_type': 'misc'}
+{'entry': 'weiblich', 'translation': 'female; feminine', 'lesson_id': 63, 'e_type': 'misc'}
+{'entry': 'Du langweilst mich!', 'translation': "You're boring!", 'lesson_id': 64, 'e_type': 'phrase'}
+{'entry': 'Du nervst mich!', 'translation': "You're annoying me!", 'lesson_id': 64, 'e_type': 'phrase'}
+{'entry': 'Du spinnst!', 'translation': "You're crazy!", 'lesson_id': 64, 'e_type': 'phrase'}
+{'entry': 'Du verstehst mich.', 'translation': 'You understand me.', 'lesson_id': 64, 'e_type': 'phrase'}
+{'entry': 'etwas/jemanden füttern ', 'translation': 'to feed somebody/something', 'lesson_id': 64, 'e_type': 'misc'}
+{'entry': 'geboren', 'translation': 'to be born', 'lesson_id': 64, 'e_type': 'misc'}
+{'entry': 'gleich', 'translation': 'the same', 'lesson_id': 64, 'e_type': 'misc'}
+{'entry': 'Ich mag dich.', 'translation': 'I like you.', 'lesson_id': 64, 'e_type': 'phrase'}
+{'entry': 'jemand', 'translation': 'someone; anyone', 'lesson_id': 64, 'e_type': 'misc'}
+{'entry': '(etwas) rauchen', 'translation': 'to smoke', 'lesson_id': 64, 'e_type': 'misc'}
+{'entry': 'sollen', 'translation': 'should; to be supposed to do sth. ', 'lesson_id': 64, 'e_type': 'misc'}
+{'entry': 'der Stress', 'translation': 'stress', 'lesson_id': 64, 'e_type': 'misc'}
+{'entry': 'weiter|suchen', 'translation': 'to keep/continue searching', 'lesson_id': 64, 'e_type': 'misc'}
+{'entry': 'Aerobic machen', 'translation': 'to work out; to do aerobics', 'lesson_id': 65, 'e_type': 'misc'}
+{'entry': 'der Basketball', 'translation': 'basketball', 'lesson_id': 65, 'e_type': 'misc'}
+{'entry': 'bereit', 'translation': 'ready; prepared', 'lesson_id': 65, 'e_type': 'misc'}
+{'entry': 'breit', 'translation': 'wide; broad', 'lesson_id': 65, 'e_type': 'misc'}
+{'entry': 'jemandem etwas erzählen', 'translation': 'to tell (a story) to somebody', 'lesson_id': 65, 'e_type': 'misc'}
+{'entry': 'das Golf', 'translation': 'golf', 'lesson_id': 65, 'e_type': 'misc'}
+{'entry': 'der Handball', 'translation': 'handball', 'lesson_id': 65, 'e_type': 'misc'}
+{'entry': 'klettern', 'translation': 'to climb', 'lesson_id': 65, 'e_type': 'misc'}
+{'entry': 'laufen', 'translation': 'to walk', 'lesson_id': 65, 'e_type': 'misc'}
+{'entry': 'perfekt', 'translation': 'perfect', 'lesson_id': 65, 'e_type': 'misc'}
+{'entry': 'speziell', 'translation': 'special; particular', 'lesson_id': 65, 'e_type': 'misc'}
+{'entry': 'stark', 'translation': 'heavy; strong', 'lesson_id': 65, 'e_type': 'misc'}
+{'entry': 'sich verletzen', 'translation': 'to hurt/injure oneself', 'lesson_id': 65, 'e_type': 'misc'}
+{'entry': 'die Yoga-Matte, die Yoga-Matten', 'translation': 'yoga mat', 'lesson_id': 65, 'e_type': 'misc'}
+{'entry': 'fair', 'translation': 'fair', 'lesson_id': 66, 'e_type': 'misc'}
+{'entry': 'faul', 'translation': 'lazy', 'lesson_id': 66, 'e_type': 'misc'}
+{'entry': 'fit ', 'translation': 'fit', 'lesson_id': 66, 'e_type': 'misc'}
+{'entry': '(etwas) gewinnen', 'translation': 'to win (something)', 'lesson_id': 66, 'e_type': 'misc'}
+{'entry': 'bei etwas mit|machen', 'translation': 'to join in', 'lesson_id': 66, 'e_type': 'misc'}
+{'entry': 'seit', 'translation': 'since', 'lesson_id': 66, 'e_type': 'misc'}
+{'entry': 'sportlich', 'translation': 'sporty; athletic', 'lesson_id': 66, 'e_type': 'misc'}
+{'entry': 'ein Tor schießen ', 'translation': 'to shoot a goal', 'lesson_id': 66, 'e_type': 'misc'}
+{'entry': 'trainieren', 'translation': 'to train; to practice', 'lesson_id': 66, 'e_type': 'misc'}
+{'entry': 'unsportlich', 'translation': 'not athletic; not sporty', 'lesson_id': 66, 'e_type': 'misc'}
+{'entry': '(etwas) verlieren', 'translation': 'to lose (something)', 'lesson_id': 66, 'e_type': 'misc'}
+{'entry': 'wie lange', 'translation': 'how long', 'lesson_id': 66, 'e_type': 'misc'}
+{'entry': 'wie oft', 'translation': 'how often', 'lesson_id': 66, 'e_type': 'misc'}
+{'entry': 'der Alkohol', 'translation': 'alcohol', 'lesson_id': 67, 'e_type': 'misc'}
+{'entry': 'der Alltag', 'translation': 'everyday life', 'lesson_id': 67, 'e_type': 'misc'}
+{'entry': 'sich aus|ruhen', 'translation': 'to relax', 'lesson_id': 67, 'e_type': 'misc'}
+{'entry': 'besonders', 'translation': 'especially, particularly', 'lesson_id': 67, 'e_type': 'misc'}
+{'entry': 'sich bewegen', 'translation': 'to move; to exercise', 'lesson_id': 67, 'e_type': 'misc'}
+{'entry': 'dagegen', 'translation': 'against it/that; in order to stop or prevent it/that', 'lesson_id': 67, 'e_type': 'misc'}
+{'entry': '(jemandem) etwas empfehlen', 'translation': 'to recommend something (to someone)', 'lesson_id': 67, 'e_type': 'misc'}
+{'entry': 'die Ernährung', 'translation': 'nutrition', 'lesson_id': 67, 'e_type': 'misc'}
+{'entry': 'die Fitness', 'translation': '(physical) fitness', 'lesson_id': 67, 'e_type': 'misc'}
+{'entry': 'sich fühlen', 'translation': 'to feel', 'lesson_id': 67, 'e_type': 'misc'}
+{'entry': 'genug', 'translation': 'enough', 'lesson_id': 67, 'e_type': 'misc'}
+{'entry': 'die Gesundheit', 'translation': 'health', 'lesson_id': 67, 'e_type': 'misc'}
+{'entry': 'die Gymnastik', 'translation': 'gymnastics', 'lesson_id': 67, 'e_type': 'misc'}
+{'entry': 'hoch', 'translation': 'high; tall', 'lesson_id': 67, 'e_type': 'misc'}
+{'entry': 'mindestens', 'translation': 'at least; minimum', 'lesson_id': 67, 'e_type': 'misc'}
+{'entry': 'springen', 'translation': 'to jump', 'lesson_id': 67, 'e_type': 'misc'}
+{'entry': 'etwas tun', 'translation': 'to do something', 'lesson_id': 67, 'e_type': 'misc'}
+{'entry': 'weit', 'translation': 'far; long', 'lesson_id': 67, 'e_type': 'misc'}
+{'entry': 'ab|nehmen', 'translation': 'to lose weight', 'lesson_id': 68, 'e_type': 'misc'}
+{'entry': 'dick', 'translation': 'fat; heavy', 'lesson_id': 68, 'e_type': 'misc'}
+{'entry': 'fett', 'translation': 'fat(ty); greasy', 'lesson_id': 68, 'e_type': 'misc'}
+{'entry': 'die Leute (Plural)', 'translation': 'people', 'lesson_id': 68, 'e_type': 'misc'}
+{'entry': 'scharf', 'translation': 'spicy', 'lesson_id': 68, 'e_type': 'misc'}
+{'entry': 'der Senf', 'translation': 'mustard', 'lesson_id': 68, 'e_type': 'misc'}
+{'entry': 'ungesund', 'translation': 'unhealthy', 'lesson_id': 68, 'e_type': 'misc'}
+{'entry': 'die Vorsicht', 'translation': 'caution; careful; As an interjection: Beware!', 'lesson_id': 68, 'e_type': 'misc'}
+{'entry': 'zu|nehmen ', 'translation': 'to gain weight; to put on weight', 'lesson_id': 68, 'e_type': 'misc'}
+{'entry': 'bluten ', 'translation': 'to bleed', 'lesson_id': 69, 'e_type': 'misc'}
+{'entry': 'dick', 'translation': 'swollen', 'lesson_id': 69, 'e_type': 'misc'}
+{'entry': 'erkältet', 'translation': 'suffering from a cold', 'lesson_id': 69, 'e_type': 'misc'}
+{'entry': 'genau', 'translation': 'exactly', 'lesson_id': 69, 'e_type': 'misc'}
+{'entry': 'geschwollen', 'translation': 'swollen', 'lesson_id': 69, 'e_type': 'misc'}
+{'entry': 'etwas kühlen', 'translation': 'to cool something', 'lesson_id': 69, 'e_type': 'misc'}
+{'entry': 'schon wieder', 'translation': '(once) again', 'lesson_id': 69, 'e_type': 'misc'}
+{'entry': 'stark', 'translation': 'heavy; strong', 'lesson_id': 69, 'e_type': 'misc'}
+{'entry': 'stürzen', 'translation': 'to fall', 'lesson_id': 69, 'e_type': 'misc'}
+{'entry': 'Was ist denn los?', 'translation': "What's going on?/What's wrong?", 'lesson_id': 69, 'e_type': 'phrase'}
+{'entry': 'weh|tun', 'translation': 'to hurt', 'lesson_id': 69, 'e_type': 'misc'}
+{'entry': 'Zeig mal!', 'translation': 'Let me see!/Show me!', 'lesson_id': 69, 'e_type': 'phrase'}
+{'entry': 'sich etwas an|schauen', 'translation': 'to look at something', 'lesson_id': 70, 'e_type': 'misc'}
+{'entry': 'Bis gleich!', 'translation': 'See you in a little while!', 'lesson_id': 70, 'e_type': 'phrase'}
+{'entry': 'Bitte schön!', 'translation': 'Here you are!/There you go! ', 'lesson_id': 70, 'e_type': 'phrase'}
+{'entry': 'doof', 'translation': 'silly; stupid', 'lesson_id': 70, 'e_type': 'misc'}
+{'entry': 'dürfen', 'translation': 'to be allowed to', 'lesson_id': 70, 'e_type': 'misc'}
+{'entry': 'etwas', 'translation': 'a little (bit) (here: refers to a short time)', 'lesson_id': 70, 'e_type': 'misc'}
+{'entry': 'sich auf etwas/jemanden freuen', 'translation': 'to look forward to something/to (seeing) someone', 'lesson_id': 70, 'e_type': 'misc'}
+{'entry': 'gar nicht', 'translation': 'not at all', 'lesson_id': 70, 'e_type': 'misc'}
+{'entry': 'gebrochen', 'translation': 'broken', 'lesson_id': 70, 'e_type': 'misc'}
+{'entry': 'gleich', 'translation': 'soon; in a minute', 'lesson_id': 70, 'e_type': 'misc'}
+{'entry': 'Ich habe starke Schmerzen.', 'translation': "I'm in a lot of pain.", 'lesson_id': 70, 'e_type': 'phrase'}
+{'entry': 'leise', 'translation': 'quiet; silent', 'lesson_id': 70, 'e_type': 'misc'}
+{'entry': 'etwas/jemanden röntgen', 'translation': 'to x-ray something / someone', 'lesson_id': 70, 'e_type': 'misc'}
+{'entry': 'schade', 'translation': 'too bad', 'lesson_id': 70, 'e_type': 'misc'}
+{'entry': 'sofort', 'translation': 'immediately', 'lesson_id': 70, 'e_type': 'misc'}
+{'entry': 'über', 'translation': 'over; more than', 'lesson_id': 70, 'e_type': 'misc'}
+{'entry': 'vorbei|kommen', 'translation': 'to come by', 'lesson_id': 70, 'e_type': 'misc'}
+{'entry': 'etwas zeigen', 'translation': 'to show something', 'lesson_id': 70, 'e_type': 'misc'}
+{'entry': 'bewusstlos', 'translation': 'unconscious', 'lesson_id': 71, 'e_type': 'misc'}
+{'entry': 'bremsen', 'translation': 'to brake', 'lesson_id': 71, 'e_type': 'misc'}
+{'entry': 'Gern geschehen!', 'translation': "My pleasure!/You're welcome!", 'lesson_id': 71, 'e_type': 'phrase'}
+{'entry': 'Gesundheit!', 'translation': 'Bless you!', 'lesson_id': 71, 'e_type': 'phrase'}
+{'entry': 'Gute Besserung!', 'translation': 'Hope you feel better!', 'lesson_id': 71, 'e_type': 'phrase'}
+{'entry': 'einen Krankenwagen rufen', 'translation': 'to call an ambulance', 'lesson_id': 71, 'e_type': 'misc'}
+{'entry': 'plötzlich', 'translation': 'suddenly', 'lesson_id': 71, 'e_type': 'misc'}
+{'entry': 'jemanden/etwas untersuchen', 'translation': 'to examine somebody/something', 'lesson_id': 71, 'e_type': 'misc'}
+{'entry': 'verletzt', 'translation': 'injured', 'lesson_id': 71, 'e_type': 'misc'}
+{'entry': 'zum Glück', 'translation': 'luckily; thankfully', 'lesson_id': 71, 'e_type': 'misc'}
+{'entry': 'etwas ändern', 'translation': 'to change something', 'lesson_id': 72, 'e_type': 'misc'}
+{'entry': 'aus|atmen', 'translation': 'to exhale; to breath out', 'lesson_id': 72, 'e_type': 'misc'}
+{'entry': 'bedeuten', 'translation': 'to mean ', 'lesson_id': 72, 'e_type': 'misc'}
+{'entry': 'etwas benutzen', 'translation': 'to use something', 'lesson_id': 72, 'e_type': 'misc'}
+{'entry': 'das Blut', 'translation': 'blood', 'lesson_id': 72, 'e_type': 'misc'}
+{'entry': 'Blut ab|nehmen', 'translation': 'to draw blood; to take blood', 'lesson_id': 72, 'e_type': 'misc'}
+{'entry': 'der Blutdruck', 'translation': 'blood pressure', 'lesson_id': 72, 'e_type': 'misc'}
+{'entry': 'Danke für Ihre Hilfe.', 'translation': 'Thank you for your help. (formal)', 'lesson_id': 72, 'e_type': 'phrase'}
+{'entry': 'ein|atmen', 'translation': 'inhale; breathe in', 'lesson_id': 72, 'e_type': 'misc'}
+{'entry': 'jemanden krank|schreiben', 'translation': "to get a doctor's note; to take sick leave", 'lesson_id': 72, 'e_type': 'misc'}
+{'entry': 'die Medizin', 'translation': 'medicine', 'lesson_id': 72, 'e_type': 'misc'}
+{'entry': 'nachher', 'translation': 'afterwards', 'lesson_id': 72, 'e_type': 'misc'}
+{'entry': 'jemanden operieren', 'translation': 'to operate on someone', 'lesson_id': 72, 'e_type': 'misc'}
+{'entry': 'die Ruhe', 'translation': 'peace; calm', 'lesson_id': 72, 'e_type': 'misc'}
+{'entry': 'so', 'translation': 'that was; like this; such', 'lesson_id': 72, 'e_type': 'misc'}
+{'entry': 'täglich', 'translation': 'daily', 'lesson_id': 72, 'e_type': 'misc'}
+{'entry': 'etwas verschreiben', 'translation': 'to prescribe something', 'lesson_id': 72, 'e_type': 'misc'}
+{'entry': 'Was fehlt Ihnen?', 'translation': 'Are you looking for something? Can I help you?', 'lesson_id': 72, 'e_type': 'phrase'}
+{'entry': 'am Stadtrand', 'translation': 'on the outskirts; on the edge of the city', 'lesson_id': 73, 'e_type': 'misc'}
+{'entry': 'eines Tages', 'translation': 'one day', 'lesson_id': 73, 'e_type': 'misc'}
+{'entry': 'erst mal', 'translation': 'to begin with; first', 'lesson_id': 73, 'e_type': 'misc'}
+{'entry': 'sich über etwas freuen', 'translation': 'to be excited about something', 'lesson_id': 73, 'e_type': 'misc'}
+{'entry': 'klasse', 'translation': 'brilliant; swell; great', 'lesson_id': 73, 'e_type': 'misc'}
+{'entry': 'nervös', 'translation': 'nervous', 'lesson_id': 73, 'e_type': 'misc'}
+{'entry': 'normal', 'translation': 'normal', 'lesson_id': 73, 'e_type': 'misc'}
+{'entry': 'sogar', 'translation': 'even', 'lesson_id': 73, 'e_type': 'misc'}
+{'entry': 'so wie', 'translation': 'like; almost; as in', 'lesson_id': 73, 'e_type': 'misc'}
+{'entry': 'sympathisch', 'translation': 'likeable; pleasant', 'lesson_id': 73, 'e_type': 'misc'}
+{'entry': 'weg|gehen', 'translation': 'to leave; to go (away)', 'lesson_id': 73, 'e_type': 'misc'}
+{'entry': 'als Kind', 'translation': 'as a kid; as a child', 'lesson_id': 74, 'e_type': 'misc'}
+{'entry': 'da', 'translation': 'there', 'lesson_id': 74, 'e_type': 'misc'}
+{'entry': 'jemandem fehlen', 'translation': 'to miss; to be missing; to be lacking', 'lesson_id': 74, 'e_type': 'misc'}
+{'entry': 'jemandem gefallen', 'translation': 'to appeal to someone', 'lesson_id': 74, 'e_type': 'misc'}
+{'entry': 'das Heimweh', 'translation': 'homesickness', 'lesson_id': 74, 'e_type': 'misc'}
+{'entry': 'klar', 'translation': 'sure; of course', 'lesson_id': 74, 'e_type': 'misc'}
+{'entry': 'etwas mögen', 'translation': 'to like something', 'lesson_id': 74, 'e_type': 'misc'}
+{'entry': 'probieren', 'translation': 'to try; to test; to taste', 'lesson_id': 74, 'e_type': 'misc'}
+{'entry': 'traurig', 'translation': 'sad', 'lesson_id': 74, 'e_type': 'misc'}
+{'entry': 'etwas/jemanden vermissen', 'translation': 'to miss something/someone', 'lesson_id': 74, 'e_type': 'misc'}
+{'entry': 'anders', 'translation': 'different', 'lesson_id': 75, 'e_type': 'misc'}
+{'entry': 'an etwas/jemanden denken', 'translation': 'to think of something/somebody', 'lesson_id': 75, 'e_type': 'misc'}
+{'entry': 'eigentlich', 'translation': 'actually', 'lesson_id': 75, 'e_type': 'misc'}
+{'entry': 'einfach', 'translation': 'simple', 'lesson_id': 75, 'e_type': 'misc'}
+{'entry': 'funktionieren', 'translation': 'to work; to function', 'lesson_id': 75, 'e_type': 'misc'}
+{'entry': 'hilfsbereit', 'translation': 'helpful; cooperative', 'lesson_id': 75, 'e_type': 'misc'}
+{'entry': 'irgendwann', 'translation': 'sometime', 'lesson_id': 75, 'e_type': 'misc'}
+{'entry': 'locker', 'translation': 'loose; relaxed; easy', 'lesson_id': 75, 'e_type': 'misc'}
+{'entry': 'sicher', 'translation': 'safe', 'lesson_id': 75, 'e_type': 'misc'}
+{'entry': 'spontan', 'translation': 'spontaneous', 'lesson_id': 75, 'e_type': 'misc'}
+{'entry': 'etwas beenden', 'translation': 'to end something; to finish something', 'lesson_id': 76, 'e_type': 'misc'}
+{'entry': 'eigener, eigene, eigenes', 'translation': 'own', 'lesson_id': 76, 'e_type': 'misc'}
+{'entry': 'ein paar', 'translation': 'a pair; a few', 'lesson_id': 76, 'e_type': 'misc'}
+{'entry': 'fleißig', 'translation': 'diligently/diligent; hardworking', 'lesson_id': 76, 'e_type': 'misc'}
+{'entry': 'hart', 'translation': 'hard', 'lesson_id': 76, 'e_type': 'misc'}
+{'entry': 'Ich hätte …', 'translation': 'I could have..., / I would have...', 'lesson_id': 76, 'e_type': 'misc'}
+{'entry': 'Ich hätte gerne …', 'translation': 'I would like...', 'lesson_id': 76, 'e_type': 'misc'}
+{'entry': 'Ich würde …', 'translation': 'I would...', 'lesson_id': 76, 'e_type': 'misc'}
+{'entry': 'Ich würde gerne ...', 'translation': 'I would like to...', 'lesson_id': 76, 'e_type': 'phrase'}
+{'entry': '(von etwas) träumen', 'translation': 'dream; to dream of something', 'lesson_id': 76, 'e_type': 'misc'}
+{'entry': 'sich etwas wünschen', 'translation': 'to wish for something', 'lesson_id': 76, 'e_type': 'misc'}
