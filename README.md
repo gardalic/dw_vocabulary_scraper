@@ -15,7 +15,9 @@ Help with learning German. Primarily created to support the DW course Nico's weg
   2. nouns.json
   3. phrases.json
 ## Usage
-It can be run from the command line without any parameters, any flags are optional. Currently implemented parameters:
+It can be run from the command line without any parameters, any flags are optional. Usage:
+```python vocabulary_scraper.py [args]```
+Currently implemented parameters:
 - `-h, --help` - shows help message and exits
 - `-u (--url) URL` - URL of the landing (overview) page
 - `-w (--write) WRITE` - Write mode for files, the `main` function, as well as the `write_files` initializes it as "w". It will raise an exception if it is not set to "w" or "a".
