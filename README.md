@@ -16,7 +16,9 @@ Help with learning German. Primarily created to support the DW course Nico's weg
   3. phrases.json
 ## Usage
 It can be run from the command line without any parameters, any flags are optional. Usage:
+
 ```python vocabulary_scraper.py [args]```
+
 Currently implemented parameters:
 - `-h, --help` - shows help message and exits
 - `-u (--url) URL` - URL of the landing (overview) page

@@ -14,8 +14,6 @@ class ScrapeVocabulary:
     Saves the word list and the lesson list in separate files.
     """
 
-    # TODO Testing scripts, implement unittest
-
     def __init__(self, url):
         self.url = url
         self.lesson_list = []
