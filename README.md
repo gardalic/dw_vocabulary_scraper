@@ -10,7 +10,13 @@ Help with learning German. Primarily created to support the DW course Nico's weg
   - vocabulary page follows a static naming convention, so the script doesn't have to crawl, it can go there directly
 - scrapes and parses the vocabulary page
   - saves the parsed entry as a noun (saves the article separate from the base noun) or phrase/verb
-- saves the data in three separate files in dictionary format
-  1. lessons.txt
-  2. nouns.txt
-  3. phrases.txt
+- saves the data in three separate files in JSON format in the working directory:
+  1. lessons.json
+  2. nouns.json
+  3. phrases.json
+## Usage
+It can be run from the command line without any parameters, any flags are optional. Currently implemented parameters:
+- `-h, --help` - shows help message and exits
+- `-u (--url) URL` - URL of the landing (overview) page
+- `-w (--write) WRITE` - Write mode for files, the `main` function, as well as the `write_files` initializes it as "w". It will raise an exception if it is not set to "w" or "a".
+- `-l (--lesson) LESSON` - Specify the URL for the single lesson to scrape, uses `'https://learngerman.dw.com/<LESSON>/lv'` format. Will append to files.

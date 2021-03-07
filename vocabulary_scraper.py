@@ -1,6 +1,7 @@
 import requests
 import re
 import dw_vocabulary as dv
+import json
 from bs4 import BeautifulSoup
 from time import sleep
 from random import randint
@@ -12,7 +13,7 @@ class ScrapeVocabulary:
     From there it follows the link to the vocabulary page and scrapes the words and phrases.\n
     Saves the word list and the lesson list in separate files.
     """
-    # TODO Error handling on requests and file I/O
+
     # TODO Testing scripts, implement unittest
 
     def __init__(self, url):
@@ -82,25 +83,62 @@ class ScrapeVocabulary:
         else:
             return dv.VocabEntry(entry, translation, id)
 
-    def write_list_file(self, lst, outname):
-        with open(outname, "w", encoding="utf-8") as file:
-            for line in lst:
-                file.write(f"{str(line)}\n")
-            print(f"Saved list to file '{outname}'")
+    def write_list_file(self, lst, outname, mode="w"):
+        """Write the list into a JSON file. The function creates an empty file if the list
+        is empty."""
+        with open(outname, mode, encoding="utf8") as file:
+            if lst:
+                try:
+                    json.dump(lst, file, ensure_ascii=False)
+                    print(f"Saved list to file '{outname}'")
+                except IOError as io_err:
+                    print(f"ERROR on writing to file! Error: {io_err}")
+                    raise
+            else:
+                print(f"Nothing to write to [{outname}]...")
+
+
+def main():
+    import argparse
+
+    p = argparse.ArgumentParser(description="DW Nico's Weg vocabulary scraper (A1)")
+    p.add_argument(
+        "-u",
+        "--url",
+        help="URL of the landing (overview) page",
+        default="https://learngerman.dw.com/en/beginners/c-36519789",
+        action="store"
+    )
+    p.add_argument(
+        "-w",
+        "--write",
+        help="Write mode for the files, use 'a' if appending to file",
+        action="store"
+    )
+    p.add_argument(
+        "-l",
+        "--lesson",
+        help="Specify the URL for the single lesson to scrape, uses 'https://learngerman.dw.com/<LESSON>/lv' format. Will append to files.",
+        action="store",
+    )
+
+    args = p.parse_args()
+    scraper = ScrapeVocabulary(args.url)
+    print("Beginning scraping...\n")
+
+    mode = "w"
+    if args.lesson:
+        scraper.scrape_vocabulary(args.lesson)
+        mode = "a"
+    else:
+        scraper.scrape_lessons(scraper.url)
+
+    print("Scraping finished, writing lists to files...")
+    scraper.write_list_file(scraper.lesson_list, "lessons.json", mode)
+    scraper.write_list_file(scraper.noun_list, "nouns.json", mode)
+    scraper.write_list_file(scraper.phrase_list, "phrases.json", mode)
+    print("Processing done!")
 
 
 if __name__ == "__main__":
-    url = "https://learngerman.dw.com/en/beginners/c-36519789"
-    scraper = ScrapeVocabulary(url)
-    print("Beginning scraping...\n")
-    scraper.scrape_lessons(scraper.url)
-
-    print("Scraping finished, writing lists to files...")
-    scraper.write_list_file(scraper.lesson_list, "lessons.txt")
-    scraper.write_list_file(scraper.noun_list, "nouns.txt")
-    scraper.write_list_file(scraper.phrase_list, "phrases.txt")
-
-    print("Processing done!")
-
-    # scraper.scrape_vocabulary("en/tschüss/l-37251033")
-    # scraper.write_list_file(scraper.phrase_list, "phrases.txt")
+    main()
