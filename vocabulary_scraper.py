@@ -63,7 +63,7 @@ class ScrapeVocabulary:
                 .find("p")
                 .get_text()  # looks bad, but it is black formatter recomendation
             ).replace("\xa0", " ")
-            formatted = self.format_entry(phrase, translation, id)
+            formatted = self.format_entry(phrase.strip(), translation, id)
             if isinstance(formatted, dv.Noun):
                 self.noun_list.append(formatted.__dict__)
             else:
